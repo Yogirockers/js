@@ -1,5 +1,6 @@
 [
-  { "name": "Yogeshwaran M", "mobile": "04323-223328", "plan": 399, "status": "Inactive", "dueAmount": 200, "dueDate": "2025-11-10" },
+  { "name": "Yogeshwaran M", "mobile": "04323-223328", "plan": 399, "status": "Inactive","dueAmount": 200,
+    "dueDate": "2025-11-10" },
   { "name": "Sakthivel M", "mobile": "04323-247354", "plan": 399, "status": "Inactive" },
   { "name": "Vijay R", "mobile": "04323-248276", "plan": 399, "status": "Active" },
   { "name": "Preetha K", "mobile": "04323-222191", "plan": 599, "status": "Active" },
