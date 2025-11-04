@@ -3,132 +3,138 @@
     "name": "SONY HD",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png",
     "category": "Entertainment",
-    "m3u8": "https://allinonereborn.online/livtest789/stream_proxy.php?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011671-b%2FSETHD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1762173003~acl%3D%2F%2A~id%3D65353889792124497328928460410339~hmac%3D4244e802fd54cbc8ffee297857b9a44fdf020b39c7778e68aa402b9abdb25926"
+    "m3u8": "https://allinonereborn.online/livtest789/stream_proxy.php?url=https%3A%2F%2Fdai.google.com%2Flinear%2Fhls%2Fevent%2FHgaB-u6rSpGx3mo4Xu3sLw%2Fmaster.m3u8"
   },
   "2": {
     "name": "SAB HD",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",
     "category": "Entertainment",
-    "m3u8": "https://allinonereborn.online/livtest789/stream_proxy.php?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011749-b%2FSABHD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1762173003~acl%3D%2F%2A~id%3D65353889792124497328928460410339~hmac%3D4244e802fd54cbc8ffee297857b9a44fdf020b39c7778e68aa402b9abdb25926"
+    "m3u8": "https://allinonereborn.online/livtest789/stream_proxy.php?url=https%3A%2F%2Fdai.google.com%2Flinear%2Fhls%2Fevent%2FUI4QFJ_uRk6aLxIcADqa_A%2Fmaster.m3u8"
   },
   "3": {
     "name": "SONY MARATHI",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png",
     "category": "Entertainment",
-    "m3u8": "https://allinonereborn.online/livtest789/stream_proxy.php?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011740-b%2FSonyMarathi%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1762173003~acl%3D%2F%2A~id%3D65353889792124497328928460410339~hmac%3D4244e802fd54cbc8ffee297857b9a44fdf020b39c7778e68aa402b9abdb25926"
+    "m3u8": "https://allinonereborn.online/livtest789/stream_proxy.php?url=https%3A%2F%2Fdai.google.com%2Flinear%2Fhls%2Fevent%2F-_w3Jbq3QoW-mFCM2YIzxA%2Fmaster.m3u8"
   },
   "4": {
     "name": "SONY PAL",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pal.png",
     "category": "Movies",
-    "m3u8": "https://allinonereborn.online/livtest789/stream_proxy.php?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011741-b%2FSonyPalSD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1762173003~acl%3D%2F%2A~id%3D65353889792124497328928460410339~hmac%3D4244e802fd54cbc8ffee297857b9a44fdf020b39c7778e68aa402b9abdb25926"
+    "m3u8": "https://allinonereborn.online/livtest789/stream_proxy.php?url=https%3A%2F%2Fdai.google.com%2Flinear%2Fhls%2Fevent%2FrPzF28qORbKZkhci_04fdQ%2Fmaster.m3u8"
   },
   "5": {
     "name": "SONY AATH",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_aath.png",
     "category": "Entertainment",
-    "m3u8": "https://allinonereborn.online/livtest789/stream_proxy.php?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011641-b%2FSonyAathSD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1762173003~acl%3D%2F%2A~id%3D65353889792124497328928460410339~hmac%3D4244e802fd54cbc8ffee297857b9a44fdf020b39c7778e68aa402b9abdb25926"
+    "m3u8": "https://allinonereborn.online/livtest789/stream_proxy.php?url=https%3A%2F%2Fdai.google.com%2Flinear%2Fhls%2Fevent%2FpSVzGmMpQR6jdmwwJg87OQ%2Fmaster.m3u8"
   },
   "6": {
     "name": "SONY YAY",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png",
     "category": "Kids",
-    "m3u8": "https://allinonereborn.online/livtest789/stream_proxy.php?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011746-b%2FSonyYaySD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1762173003~acl%3D%2F%2A~id%3D65353889792124497328928460410339~hmac%3D4244e802fd54cbc8ffee297857b9a44fdf020b39c7778e68aa402b9abdb25926"
+    "m3u8": "https://allinonereborn.online/livtest789/stream_proxy.php?url=https%3A%2F%2Fdai.google.com%2Flinear%2Fhls%2Fevent%2F40H5HfwWTZadFGYkBTqagg%2Fmaster.m3u8"
   },
   "7": {
     "name": "SONY MAX HD",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png",
     "category": "Movies",
-    "m3u8": "https://allinonereborn.online/livtest789/stream_proxy.php?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011670-b%2FSonyMaxhd%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1762173003~acl%3D%2F%2A~id%3D65353889792124497328928460410339~hmac%3D4244e802fd54cbc8ffee297857b9a44fdf020b39c7778e68aa402b9abdb25926"
+    "m3u8": "https://allinonereborn.online/livtest789/stream_proxy.php?url=https%3A%2F%2Fdai.google.com%2Flinear%2Fhls%2Fevent%2FQyqz40bSQriqSuAC7R8_Fw%2Fmaster.m3u8"
   },
   "8": {
     "name": "SONY MAX",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_SD.png",
     "category": "Movies",
-    "m3u8": "https://allinonereborn.online/livtest789/stream_proxy.php?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011745-b%2FSonyMaxSD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1762173003~acl%3D%2F%2A~id%3D65353889792124497328928460410339~hmac%3D4244e802fd54cbc8ffee297857b9a44fdf020b39c7778e68aa402b9abdb25926"
+    "m3u8": "https://allinonereborn.online/livtest789/stream_proxy.php?url=https%3A%2F%2Fdai.google.com%2Flinear%2Fhls%2Fevent%2FoJ-TGgVFSgSMBUoTkauvFQ%2Fmaster.m3u8"
   },
   "9": {
     "name": "SONY WAH",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Wah.png",
     "category": "Movies",
-    "m3u8": "https://allinonereborn.online/livtest789/stream_proxy.php?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011906-b%2FSonyWah%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1762173003~acl%3D%2F%2A~id%3D65353889792124497328928460410339~hmac%3D4244e802fd54cbc8ffee297857b9a44fdf020b39c7778e68aa402b9abdb25926"
+    "m3u8": "https://allinonereborn.online/livtest789/stream_proxy.php?url=https%3A%2F%2Fdai.google.com%2Flinear%2Fhls%2Fevent%2FH_ZvXWqHRGKpHcdDE5RcDA%2Fmaster.m3u8"
   },
   "10": {
     "name": "SONY MAX2",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_MAX2.png",
     "category": "Movies",
-    "m3u8": "https://allinonereborn.online/livtest789/stream_proxy.php?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011908-b%2FMAX2%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1762173003~acl%3D%2F%2A~id%3D65353889792124497328928460410339~hmac%3D4244e802fd54cbc8ffee297857b9a44fdf020b39c7778e68aa402b9abdb25926"
+    "m3u8": "https://allinonereborn.online/livtest789/stream_proxy.php?url=https%3A%2F%2Fdai.google.com%2Flinear%2Fhls%2Fevent%2F4Jcu195QTpCNBXGnpw2I6g%2Fmaster.m3u8"
   },
   "11": {
     "name": "SONY PIX HD",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",
     "category": "Movies",
-    "m3u8": "https://allinonereborn.online/livtest789/stream_proxy.php?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011748-b%2FPIXHD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1762173003~acl%3D%2F%2A~id%3D65353889792124497328928460410339~hmac%3D4244e802fd54cbc8ffee297857b9a44fdf020b39c7778e68aa402b9abdb25926"
+    "m3u8": "https://allinonereborn.online/livtest789/stream_proxy.php?url=https%3A%2F%2Fdai.google.com%2Flinear%2Fhls%2Fevent%2F8FR5Q-WfRWCkbMq_GxZ77w%2Fmaster.m3u8"
   },
   "12": {
     "name": "SONY TEN 1 HD",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png",
     "category": "Sports",
-    "m3u8": "https://allinonereborn.online/livtest789/stream_proxy.php?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011747-b%2FTEN1HD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1762173003~acl%3D%2F%2A~id%3D65353889792124497328928460410339~hmac%3D4244e802fd54cbc8ffee297857b9a44fdf020b39c7778e68aa402b9abdb25926"
+    "m3u8": "https://allinonereborn.online/livtest789/stream_proxy.php?url=https%3A%2F%2Fdai.google.com%2Flinear%2Fhls%2Fevent%2FyeYP86THQ4yl7US8Zx5eug%2Fmaster.m3u8"
   },
   "13": {
     "name": "SONY TEN 1",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten_1.png",
     "category": "Sports",
-    "m3u8": "https://allinonereborn.online/livtest789/stream_proxy.php?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011739-b%2FTEN1SD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1762173003~acl%3D%2F%2A~id%3D65353889792124497328928460410339~hmac%3D4244e802fd54cbc8ffee297857b9a44fdf020b39c7778e68aa402b9abdb25926"
+    "m3u8": "https://allinonereborn.online/livtest789/stream_proxy.php?url=https%3A%2F%2Fdai.google.com%2Flinear%2Fhls%2Fevent%2F4_pnLi2QTe6bRGvvahRbfg%2Fmaster.m3u8"
   },
   "14": {
     "name": "SONY TEN 2 HD",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png",
     "category": "Sports",
-    "m3u8": "https://allinonereborn.online/livtest789/stream_proxy.php?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020434-b%2FTEN2HD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1762173003~acl%3D%2F%2A~id%3D65353889792124497328928460410339~hmac%3D4244e802fd54cbc8ffee297857b9a44fdf020b39c7778e68aa402b9abdb25926"
+    "m3u8": "https://allinonereborn.online/livtest789/stream_proxy.php?url=https%3A%2F%2Fdai.google.com%2Flinear%2Fhls%2Fevent%2FSyu8F41-R1y_JmQ7x0oNxQ%2Fmaster.m3u8"
   },
   "15": {
     "name": "SONY TEN 2",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png",
     "category": "Sports",
-    "m3u8": "https://allinonereborn.online/livtest789/stream_proxy.php?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020590-b%2FTEN2SD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1762173003~acl%3D%2F%2A~id%3D65353889792124497328928460410339~hmac%3D4244e802fd54cbc8ffee297857b9a44fdf020b39c7778e68aa402b9abdb25926"
+    "m3u8": "https://allinonereborn.online/livtest789/stream_proxy.php?url=https%3A%2F%2Fdai.google.com%2Flinear%2Fhls%2Fevent%2FnspQRqO5RmC06VmlPrTwkQ%2Fmaster.m3u8"
   },
   "16": {
     "name": "SONY TEN 3 HD",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten3_HD.png",
     "category": "Sports",
-    "m3u8": "https://allinonereborn.online/livtest789/stream_proxy.php?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020591-b%2FTEN3HD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1762173003~acl%3D%2F%2A~id%3D65353889792124497328928460410339~hmac%3D4244e802fd54cbc8ffee297857b9a44fdf020b39c7778e68aa402b9abdb25926"
+    "m3u8": "https://allinonereborn.online/livtest789/stream_proxy.php?url=https%3A%2F%2Fdai.google.com%2Flinear%2Fhls%2Fevent%2FnmQFuHURTYGQBNdUG-2Qdw%2Fmaster.m3u8"
   },
   "17": {
     "name": "SONY TEN 3",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten3_HD.png",
     "category": "Sports",
-    "m3u8": "https://allinonereborn.online/livtest789/stream_proxy.php?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020592-b%2FTEN3SD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1762173003~acl%3D%2F%2A~id%3D65353889792124497328928460410339~hmac%3D4244e802fd54cbc8ffee297857b9a44fdf020b39c7778e68aa402b9abdb25926"
+    "m3u8": "https://allinonereborn.online/livtest789/stream_proxy.php?url=https%3A%2F%2Fdai.google.com%2Flinear%2Fhls%2Fevent%2F9kocjiLUSf-erlSrv3d4Mw%2Fmaster.m3u8"
   },
   "18": {
     "name": "SONY TEN 4 HD",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten_4_HD_Telugu.png",
     "category": "Sports",
-    "m3u8": "https://allinonereborn.online/livtest789/stream_proxy.php?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020589-b%2Ften4hd%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1762173003~acl%3D%2F%2A~id%3D65353889792124497328928460410339~hmac%3D4244e802fd54cbc8ffee297857b9a44fdf020b39c7778e68aa402b9abdb25926"
+    "m3u8": "https://allinonereborn.online/livtest789/stream_proxy.php?url=https%3A%2F%2Fdai.google.com%2Flinear%2Fhls%2Fevent%2Fx4LxWUcVSIiDaq1VCM7DSA%2Fmaster.m3u8"
   },
   "19": {
     "name": "SONY TEN 4",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten_4_Telugu.png",
     "category": "Sports",
-    "m3u8": "https://allinonereborn.online/livtest789/stream_proxy.php?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020437-b%2Ften4sd%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1762173003~acl%3D%2F%2A~id%3D65353889792124497328928460410339~hmac%3D4244e802fd54cbc8ffee297857b9a44fdf020b39c7778e68aa402b9abdb25926"
+    "m3u8": "https://allinonereborn.online/livtest789/stream_proxy.php?url=https%3A%2F%2Fdai.google.com%2Flinear%2Fhls%2Fevent%2FhInaEKUJSziZAGv9boOdjg%2Fmaster.m3u8"
   },
   "20": {
     "name": "SONY TEN 5 HD",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png",
     "category": "Sports",
-    "m3u8": "https://allinonereborn.online/livtest789/stream_proxy.php?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020593-b%2FSONYSIXHD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1762173003~acl%3D%2F%2A~id%3D65353889792124497328928460410339~hmac%3D4244e802fd54cbc8ffee297857b9a44fdf020b39c7778e68aa402b9abdb25926"
+    "m3u8": "https://allinonereborn.online/livtest789/stream_proxy.php?url=https%3A%2F%2Fdai.google.com%2Flinear%2Fhls%2Fevent%2FDD7fA-HgSUaLyZp9AjRYxQ%2Fmaster.m3u8"
   },
   "21": {
     "name": "SONY TEN 5",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png",
     "category": "Sports",
-    "m3u8": "https://allinonereborn.online/livtest789/stream_proxy.php?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020594-b%2FSONYSIXSD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1762173003~acl%3D%2F%2A~id%3D65353889792124497328928460410339~hmac%3D4244e802fd54cbc8ffee297857b9a44fdf020b39c7778e68aa402b9abdb25926"
+    "m3u8": "https://allinonereborn.online/livtest789/stream_proxy.php?url=https%3A%2F%2Fdai.google.com%2Flinear%2Fhls%2Fevent%2FS-q8I27RRzmkb-OIdoaiAw%2Fmaster.m3u8"
   },
   "22": {
     "name": "BBC EARTH",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",
     "category": "Infotainment",
-    "m3u8": "https://allinonereborn.online/livtest789/stream_proxy.php?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011907-b%2FSonyBBCEarthHD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1762173003~acl%3D%2F%2A~id%3D65353889792124497328928460410339~hmac%3D4244e802fd54cbc8ffee297857b9a44fdf020b39c7778e68aa402b9abdb25926"
+    "m3u8": "https://allinonereborn.online/livtest789/stream_proxy.php?url=https%3A%2F%2Fdai.google.com%2Flinear%2Fhls%2Fevent%2FV73ovbgASP-xGvQQOukwTQ%2Fmaster.m3u8"
+  },
+  "23": {
+    "name": "Sony Kal",
+    "logo": "https://c.evidon.com/pub_logos/2796-2021122219404475.png",
+    "category": "Entertainment",
+    "m3u8": "https://allinonereborn.online/livtest789/stream_proxy.php?url=https%3A%2F%2Fspt-sonykal-1-us.lg.wurl.tv%2Fplaylist.m3u8"
   }
 }
