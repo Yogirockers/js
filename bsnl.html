@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>User Plans Table</title>
+
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        background: #f4f4f4;
+        padding: 20px;
+    }
+    h2 {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        background: #fff;
+    }
+    th, td {
+        padding: 12px;
+        border: 1px solid #ccc;
+        text-align: left;
+    }
+    th {
+        background: #333;
+        color: #fff;
+    }
+    tr:nth-child(even) {
+        background: #f9f9f9;
+    }
+</style>
+</head>
+<body>
+
+<h2>User Plan Information</h2>
+
+<table id="dataTable">
+    <thead id="tableHead"></thead>
+    <tbody id="tableBody"></tbody>
+</table>
+
+<script>
+// ⭐ Replace with your external JSON URL
+const jsonURL = "bs.json";  
+
+fetch(jsonURL)
+    .then(res => res.json())
+    .then(data => {
+        const tableHead = document.getElementById("tableHead");
+        const tableBody = document.getElementById("tableBody");
+
+        // Collect all unique keys from all objects (handles missing fields)
+        const allKeys = [...new Set(data.flatMap(obj => Object.keys(obj)))];
+
+        // Create table header
+        let headHTML = "<tr>";
+        allKeys.forEach(k => headHTML += `<th>${k}</th>`);
+        headHTML += "</tr>";
+        tableHead.innerHTML = headHTML;
+
+        // Create table body
+        let bodyHTML = "";
+        data.forEach(item => {
+            bodyHTML += "<tr>";
+            allKeys.forEach(k => {
+                bodyHTML += `<td>${item[k] !== undefined ? item[k] : "-"}</td>`;
+            });
+            bodyHTML += "</tr>";
+        });
+
+        tableBody.innerHTML = bodyHTML;
+    })
+    .catch(err => {
+        document.getElementById("tableBody").innerHTML =
+            `<tr><td colspan="10" style="color:red;">Error loading JSON: ${err}</td></tr>`;
+    });
+</script>
+
+</body>
+</html>
