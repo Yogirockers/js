@@ -1,1 +1,6 @@
-https://www.hotstar.com
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="refresh" content="0;url=https://hotstar.com">
+</head>
+</html>
