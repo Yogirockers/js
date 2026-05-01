@@ -10,9 +10,9 @@ https://servertvhub.site/superlive/mpd.php?id=896
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f415c124a07c595b97c43cc9a96ded30:59e6c93d4fe43353b34a71eb87185aaa
-#EXTINF:-1 tvg-id="896" tvg-name="Sun TV HD (yogi)" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png" group-title="Tamil",Sun TV HD
-https://jiotvmblive.cdn.jio.com/bpk-tv/Sun_TV_HD_MOB/WDVLive/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=3891557f1cb14dedb7545bf52499d748:fb662f742e5f5e0c61a7c1c66d2b019a
+#EXTINF:-1 tvg-id="sun194403" tvg-name="Sun TV HD" tvg-logo="https://tatalogo.pages.dev/521.png" group-title="Entertainment",Sun TV HD (sunnxt)
+https://m3u.8088y.fun/sxt/Sun_TV_HD.mpd?tk=testing
 
 #EXTINF:-1 tvg-id="1356" tvg-name="Zee Tamil HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil_HD.png" group-title="Tamil",Zee Tamil HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
