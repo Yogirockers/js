@@ -7,7 +7,6 @@
 #EXT-X-LICENSE-URL: https://servertvhub.site/superlive/keys.php?id=896
 https://servertvhub.site/superlive/mpd.php?id=896
 
-#EXTM3U
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
