@@ -7,11 +7,11 @@
 #EXT-X-LICENSE-URL: https://servertvhub.site/superlive/keys.php?id=896
 https://servertvhub.site/superlive/mpd.php?id=896
 
-EXTINF:-1 tvg-id="1356" tvg-name="Zee Tamil HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil_HD.png" group-title="Tamil",Zee Tamil HD
+EXTINF:-1 tvg-id="9999" tvg-name="Zee Tamil HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil_HD.png" group-title="Tamil",Zee Tamil HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://servertvhub.site/superlive/keys.php?id=1356
-#EXT-X-DRM-ID: 1356
+#EXT-X-DRM-ID: 9999
 #EXT-X-LICENSE-URL: https://servertvhub.site/superlive/keys.php?id=1356
 https://servertvhub.site/superlive/mpd.php?id=1356
 
