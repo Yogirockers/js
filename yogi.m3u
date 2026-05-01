@@ -7,11 +7,12 @@
 #EXT-X-LICENSE-URL: https://servertvhub.site/superlive/keys.php?id=896
 https://servertvhub.site/superlive/mpd.php?id=896
 
+#EXTM3U
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3u.8088y.fun/jtvp/Sun_TV_HD.json
-#EXTINF:-1 tvg-id="sun194403" tvg-name="Sun TV HD" tvg-logo="https://tatalogo.pages.dev/521.png" group-title="Entertainment",Sun TV HD
+#KODIPROP:inputstream.adaptive.license_key=9BXBJKB8WVuXxDzJqW3tMA:WebJPU_kM1OzSnHrhxhaqg
+#EXTINF:-1 tvg-id="sun194403" tvg-name="Sun TV HD" group-title="Entertainment",Sun TV HD
 https://jiotvmblive.cdn.jio.com/bpk-tv/Sun_TV_HD_MOB/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1356" tvg-name="Zee Tamil HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil_HD.png" group-title="Tamil",Zee Tamil HD
