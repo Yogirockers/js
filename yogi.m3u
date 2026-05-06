@@ -569,6 +569,8 @@ https://servertvhub.site/superlive/mpd.php?id=970
 https://view.rcserver.in/tmp_hls10/jayamtvkarur/index.m3u8
 #EXTINF:-1 tvg-id="jayam_tv_namakkal" tvg-logo="https://i.ibb.co/c9msCjp/1000157776.png" group-title="Local Channels",Jayam Tv Namakkal
 https://rtmp.bmlive.net/bms/jayamtv/index.m3u8
+#EXTINF:-1 tvg-id="roja_movies" tvg-logo="https://i.ibb.co/mVzFDt49/ROJA-LOGO-HD-5.png" group-title="Movies",Roja movies
+https://m3u.8088y.fun/local/roja_movies.m3u8?tk=testing
 #EXTINF:-1 tvg-id="karur_city" group-title="Local Channels",Karur City
 https://view.rcserver.in/tmp_hls17/karurcity/index.m3u8?tk=testing
 #EXTINF:-1 tvg-id="apple_tv_3" group-title="Local Channels",Apple Tv
