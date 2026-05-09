@@ -10,7 +10,7 @@ https://servertvhub.site/superlive/mpd.php?id=896
 #EXTINF: -1 tvg-id="sun195491" tvg-name="Sun TV HDR 10+" tvg-logo="https://i.ibb.co/TM9PxFSg/Picsart-25-12-02-14-25-08-721.png" group-title="Entertainment", Sun TV HDR (sunnxt)
 https://m3u.8088y.fun/live/suntvd.m3u8?tk=testing
 
-EXTINF:-1 tvg-id="1356" tvg-name="Zee Tamil HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil_HD.png" group-title="Tamil",Zee Tamil HD
+#EXTINF:-1 tvg-id="1356" tvg-name="Zee Tamil HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil_HD.png" group-title="Tamil",Zee Tamil HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://servertvhub.site/superlive/keys.php?id=1356
