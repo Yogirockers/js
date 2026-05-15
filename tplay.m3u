@@ -5,7 +5,7 @@
 #KODIPROP:inputstream.adaptive.license_key=https://servertvhub.site/cache/keys.php?id=1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-https://servertvhub.site/cache/manifest.mpd?id=1|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+https://servertvhub.site/cache/manifest.mpd?id=1|Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
 
 #EXTINF:-1 tvg-id="ts3" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Ruposhi Bangla.png" group-title="Regional",Ruposhi Bangla
 #KODIPROP:inputstream.adaptive.license_type=clearkey
