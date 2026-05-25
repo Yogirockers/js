@@ -1,149 +1,315 @@
 #EXTM3U
+#EXTM3U x-tvg-url="" logo="https://i.ibb.co/JjH9NzHb/Screenshot-2026-05-17-07-30-30-458-com-google-android-googlequicksearchbox-edit.jpg"
+#EXTREM: Join our Telegram: https://t.me/your_telegram_link
+#EXTINF:-1 tvg-id="tg" tvg-name="Join Telegram" tvg-logo="https://i.ibb.co/JjH9NzHb/Screenshot-2026-05-17-07-30-30-458-com-google-android-googlequicksearchbox-edit.jpg" group-title="JioTV SUPPORT",Join Telegram for Updates
+https://servertvhub.site/jiotv+/video.mp4
 
-#EXTINF:-1 tvg-id="ts1" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/INDIA-TODAY_transparent.png" group-title="News",INDIA TODAY
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://servertvhub.site/cache/keys.php?id=1
+#EXTINF:-1 tvg-id="143" tvg-name="CNBC TV18 Prime" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBCTV18Prime.png" group-title="JioTv+ ENGLISH",CNBC TV18 Prime
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-https://servertvhub.site/cache/manifest.mpd?id=1|Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb19113c11ce5cfb80c89696765a0187:b2797ce5e403ee22d8e36c6d5f2b6630
+#EXT-X-DRM-ID: 143
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=143
+https://servertvhub.site/jiotv+/mpd.php?id=143
 
-#EXTINF:-1 tvg-id="ts3" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Ruposhi Bangla.png" group-title="Regional",Ruposhi Bangla
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://servertvhub.site/cache/keys.php?id=3
+#EXTINF:-1 tvg-id="144" tvg-name="Colors HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsHD.png" group-title="JioTv+ ENTERTAINMENT",Colors HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-https://servertvhub.site/cache/manifest.mpd?id=3|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9025bf5bbe6502cab58edaa0b50750b:91b5ca6ebefe3a977cb6fcae31868664
+#EXT-X-DRM-ID: 144
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=144
+https://servertvhub.site/jiotv+/mpd.php?id=144
 
-#EXTINF:-1 tvg-id="ts6" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/News18 Gujarati.png" group-title="News",News18 Gujarati
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://servertvhub.site/cache/keys.php?id=6
+#EXTINF:-1 tvg-id="146" tvg-name="History TV18 HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/History_HD.png" group-title="JioTv+ ENGLISH",History TV18 HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-https://servertvhub.site/cache/manifest.mpd?id=6|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e5105a616fb95ce48dbde4fe9d7960ad:272d2bcff8430174fdd5aaf6f93abb6b
+#EXT-X-DRM-ID: 146
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=146
+https://servertvhub.site/jiotv+/mpd.php?id=146
 
-#EXTINF:-1 tvg-id="ts7" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/B4U Movies.png" group-title="Movies",B4U Movies
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://servertvhub.site/cache/keys.php?id=7
+#EXTINF:-1 tvg-id="151" tvg-name="Movies Now HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Movies_Now_HD.png" group-title="JioTv+ ENGLISH",Movies Now HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-https://servertvhub.site/cache/manifest.mpd?id=7|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+#EXT-X-DRM-ID: 151
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=151
+https://servertvhub.site/jiotv+/mpd.php?id=151
 
-#EXTINF:-1 tvg-id="ts8" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/STAR Plus HD.png" group-title="TV Shows",STAR Plus HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://servertvhub.site/cache/keys.php?id=8
+#EXTINF:-1 tvg-id="153" tvg-name="Zee Talkies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeTalkies.png" group-title="JioTv+ MARATHI",Zee Talkies
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-https://servertvhub.site/cache/manifest.mpd?id=8|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2f20fb86cf6857b4b9048772dc9edc10:5bc8fcee5dd070516dbdc665d3df989d
+#EXT-X-DRM-ID: 153
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=153
+https://servertvhub.site/jiotv+/mpd.php?id=153
 
-#EXTINF:-1 tvg-id="ts9" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/B4U Music.png" group-title="Music",B4U Music
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://servertvhub.site/cache/keys.php?id=9
+#EXTINF:-1 tvg-id="156" tvg-name="Star Gold HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="JioTv+ MOVIES",Star Gold HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-https://servertvhub.site/cache/manifest.mpd?id=9|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec7ad3786d9e5efa9e0c4aeb3e58c7b7:907509ccae7e68b30ae75b5d09fe60ef
+#EXT-X-DRM-ID: 156
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=156
+https://servertvhub.site/jiotv+/mpd.php?id=156
 
-#EXTINF:-1 tvg-id="ts10" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Flowers.png" group-title="Regional",Flowers
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://servertvhub.site/cache/keys.php?id=10
+#EXTINF:-1 tvg-id="164" tvg-name="Travelxp HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png" group-title="JioTv+ ENGLISH",Travelxp HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-https://servertvhub.site/cache/manifest.mpd?id=10|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=157cd1bd71a256fe8ab763ba280320e5:6befde8b90b6926423cc83775b8dcb59
+#EXT-X-DRM-ID: 164
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=164
+https://servertvhub.site/jiotv+/mpd.php?id=164
 
-#EXTINF:-1 tvg-id="ts11" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/TV9 Telugu1.png" group-title="News",TV9 Telugu
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://servertvhub.site/cache/keys.php?id=11
+#EXTINF:-1 tvg-id="165" tvg-name="Zee Cinema HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeCinemaHD.png" group-title="JioTv+ MOVIES",Zee Cinema HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-https://servertvhub.site/cache/manifest.mpd?id=11|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=93d51baa27315cbfa26df35c3c3e47b6:c3b38db5542719e8e10008e9193089e6
+#EXT-X-DRM-ID: 165
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=165
+https://servertvhub.site/jiotv+/mpd.php?id=165
 
-#EXTINF:-1 tvg-id="ts12" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/AnmolCinema2_Transparent_49fbb3ad-ca3c-4e37-9746-e826fcb521ee.png" group-title="Movies",Anmol Cinema 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://servertvhub.site/cache/keys.php?id=12
+#EXTINF:-1 tvg-id="166" tvg-name="Cartoon Network Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNTelugu.png" group-title="JioTv+ TELUGU",Cartoon Network Telugu
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-https://servertvhub.site/cache/manifest.mpd?id=12|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e5ec63e26c1520380236941c3848f68:f944e7ee9260a9e6239170db4d6fa713
+#EXT-X-DRM-ID: 166
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=166
+https://servertvhub.site/jiotv+/mpd.php?id=166
 
-#EXTINF:-1 tvg-id="ts13" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/India News Haryana.png" group-title="News",India News Haryana
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://servertvhub.site/cache/keys.php?id=13
+#EXTINF:-1 tvg-id="167" tvg-name="Zee TV HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeTVHD.png" group-title="JioTv+ ENTERTAINMENT",Zee TV HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-https://servertvhub.site/cache/manifest.mpd?id=13|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a472713dd855718b1dc24986efbc752:4215cd7cf5915d1c4f704137ad211f45
+#EXT-X-DRM-ID: 167
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=167
+https://servertvhub.site/jiotv+/mpd.php?id=167
 
-#EXTINF:-1 tvg-id="ts14" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/India News Rajasthan.png" group-title="News",India News Rajasthan
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://servertvhub.site/cache/keys.php?id=14
+#EXTINF:-1 tvg-id="173" tvg-name="Aaj Tak" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png" group-title="JioTv+ NEWS",Aaj Tak
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-https://servertvhub.site/cache/manifest.mpd?id=14|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=569a346e50755a89afda4b7e5f47832e:81941582803cabe21a8b080189089004
+#EXT-X-DRM-ID: 173
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=173
+https://servertvhub.site/jiotv+/mpd.php?id=173
 
-#EXTINF:-1 tvg-id="ts15" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/SONY-ENTERTAINMENT-TELEVISION-HD-Transparent.png" group-title="Entertainment",SET HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://servertvhub.site/cache/keys.php?id=15
+#EXTINF:-1 tvg-id="175" tvg-name="Aastha" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png" group-title="JioTv+ DEVOTIONAL",Aastha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-https://servertvhub.site/cache/manifest.mpd?id=15|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b64b98738ec7530a8b6a65840de1fb96:82f2c494c0e20a4b6d20dc530e1b7731
+#EXT-X-DRM-ID: 175
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=175
+https://servertvhub.site/jiotv+/mpd.php?id=175
 
-#EXTINF:-1 tvg-id="ts20" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ZeeBiharJharkhand_Transparent_499ed51c-3715-499e-a33e-beb704e3f3cc.png" group-title="News",Zee Bihar Jharkhand
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://servertvhub.site/cache/keys.php?id=20
+#EXTINF:-1 tvg-id="177" tvg-name="ABP News India" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png" group-title="JioTv+ NEWS",ABP News India
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-https://servertvhub.site/cache/manifest.mpd?id=20|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8b8532e659a15d4ebfdb9675267140dd:5543d80c89009902be168fcde8b561b2
+#EXT-X-DRM-ID: 177
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=177
+https://servertvhub.site/jiotv+/mpd.php?id=177
 
-#EXTINF:-1 tvg-id="ts23" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/News18 Bangla.png" group-title="Regional",News18 Bangla
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://servertvhub.site/cache/keys.php?id=23
+#EXTINF:-1 tvg-id="180" tvg-name="Asianet News" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_News.png" group-title="JioTv+ MALAYALAM",Asianet News
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-https://servertvhub.site/cache/manifest.mpd?id=23|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=null:null
+#EXT-X-DRM-ID: 180
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=180
+https://servertvhub.site/jiotv+/mpd.php?id=180
 
-#EXTINF:-1 tvg-id="ts24" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Star Sports 1 Hindi HD.png" group-title="Sports",Star Sports 1 Hindi HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://servertvhub.site/cache/keys.php?id=24
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-https://servertvhub.site/cache/manifest.mpd?id=24|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+#EXTINF:-1 tvg-id="182" tvg-name="B4U Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/b4u_movies.png" group-title="JioTv+ MOVIES",B4U Movies
+https://jiotvmblive.cdn.jio.com/bpk-tv/b4u_movies/HLSPartner/index.m3u8
 
-#EXTINF:-1 tvg-id="ts25" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Kairali TV.png" group-title="Regional",Kairali TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://servertvhub.site/cache/keys.php?id=25
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-https://servertvhub.site/cache/manifest.mpd?id=25|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+#EXTINF:-1 tvg-id="183" tvg-name="B4U Music" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png" group-title="JioTv+ MUSIC",B4U Music
+https://jiotvmblive.cdn.jio.com/bpk-tv/b4u_music/HLSPartner/index.m3u8
 
-#EXTINF:-1 tvg-id="ts26" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ColorsBangla_Transparent_37c84c85-d3aa-4e0b-9959-aa4a81537870.png" group-title="Regional",Colors Bangla
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://servertvhub.site/cache/keys.php?id=26
+#EXTINF:-1 tvg-id="185" tvg-name="And Pictures HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/AndPicturesHD.png" group-title="JioTv+ MOVIES",And Pictures HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-https://servertvhub.site/cache/manifest.mpd?id=26|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09187bccb7ec59428352a31b4b321ce0:25b08b1c7a004e43ef92c239f93e6613
+#EXT-X-DRM-ID: 185
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=185
+https://servertvhub.site/jiotv+/mpd.php?id=185
 
-#EXTINF:-1 tvg-id="ts27" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/IBC 24.png" group-title="News",IBC 24
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://servertvhub.site/cache/keys.php?id=27
+#EXTINF:-1 tvg-id="190" tvg-name="CNBC Awaaz" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBCAwaaz.png" group-title="JioTv+ BUSINESS NEWS",CNBC Awaaz
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-https://servertvhub.site/cache/manifest.mpd?id=27|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=42f65ff4d850502fa9e51f860afb6db2:d8082ea3b48b9a5ca4e9bb3c55ea71db
+#EXT-X-DRM-ID: 190
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=190
+https://servertvhub.site/jiotv+/mpd.php?id=190
 
-#EXTINF:-1 tvg-id="ts30" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/India News UP UK.png" group-title="News",India News UP UK
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://servertvhub.site/cache/keys.php?id=30
+#EXTINF:-1 tvg-id="193" tvg-name="CNN" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNN.png" group-title="JioTv+ ENGLISH",CNN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-https://servertvhub.site/cache/manifest.mpd?id=30|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f341f5ca6aee52bcb8eaac52a3419636:a42e3cc74b1bf790c36c554f11185bc1
+#EXT-X-DRM-ID: 193
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=193
+https://servertvhub.site/jiotv+/mpd.php?id=193
 
-#EXTINF:-1 tvg-id="ts31" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Mazhavil_Manorama-transparent.png" group-title="Regional",Mazhavil Manorama
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://servertvhub.site/cache/keys.php?id=31
+#EXTINF:-1 tvg-id="196" tvg-name="Colors Gujarati" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsGujarati.png" group-title="JioTv+ GUJARATI",Colors Gujarati
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-https://servertvhub.site/cache/manifest.mpd?id=31|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6e27c4a5f43e504fa5f9d39e880687d1:0baa1de589cf31b80cac8391466d7ad6
+#EXT-X-DRM-ID: 196
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=196
+https://servertvhub.site/jiotv+/mpd.php?id=196
 
-#EXTINF:-1 tvg-id="ts32" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/SONY-PIX-HD-Transparent.png" group-title="Movie",SONY PIX HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://servertvhub.site/cache/keys.php?id=32
+#EXTINF:-1 tvg-id="202" tvg-name="DD National" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png" group-title="JioTv+ ENTERTAINMENT",DD National
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=94de6872c91153af8ed28a60a9a68620:d02b1539ff994afc78f043bcd178ccc6
+#EXT-X-DRM-ID: 202
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=202
+https://servertvhub.site/jiotv+/mpd.php?id=202
+
+#EXTINF:-1 tvg-id="203" tvg-name="DD News" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_News.png" group-title="JioTv+ NEWS",DD News
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=null:null
+#EXT-X-DRM-ID: 203
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=203
+https://servertvhub.site/jiotv+/mpd.php?id=203
+
+#EXTINF:-1 tvg-id="204" tvg-name="DD Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png" group-title="JioTv+ SPORTS",DD Sports
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e6bd071206ea552ba32a22496af8f2a5:962e83890c212fb4fe0fdab30bc2ba0d
+#EXT-X-DRM-ID: 204
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=204
+https://servertvhub.site/jiotv+/mpd.php?id=204
+
+#EXTINF:-1 tvg-id="212" tvg-name="ET Now" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ET_Now.png" group-title="JioTv+ ENGLISH",ET Now
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=null:null
+#EXT-X-DRM-ID: 212
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=212
+https://servertvhub.site/jiotv+/mpd.php?id=212
+
+#EXTINF:-1 tvg-id="231" tvg-name="News 18 India" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png" group-title="JioTv+ NEWS",News 18 India
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e0d451b9b99153e8a69bdf8c5230ab8f:0380f97460459a2aeea5f21a2cc363b3
+#EXT-X-DRM-ID: 231
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=231
+https://servertvhub.site/jiotv+/mpd.php?id=231
+
+#EXTINF:-1 tvg-id="232" tvg-name="News18 Marathi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News18Lokmat.png" group-title="JioTv+ MARATHI",News18 Marathi
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7950de17d1a95c1e911b7e76d2c9e955:4a14e16f1696ece79b640f9abc3fc193
+#EXT-X-DRM-ID: 232
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=232
+https://servertvhub.site/jiotv+/mpd.php?id=232
+
+#EXTINF:-1 tvg-id="235" tvg-name="India TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/India_TV.png" group-title="JioTv+ NEWS",India TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e154e00d8e0b5127b0825777e5226c59:4a27d9f180d16094146e55e1f3fb198b
+#EXT-X-DRM-ID: 235
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=235
+https://servertvhub.site/jiotv+/mpd.php?id=235
+
+#EXTINF:-1 tvg-id="242" tvg-name="Discovery English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Eng.png" group-title="JioTv+ ENGLISH",Discovery English
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1025acf964795689982726e2d16a73c5:d88575df3e3d1adb7a82da65f0000aa6
+#EXT-X-DRM-ID: 242
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=242
+https://servertvhub.site/jiotv+/mpd.php?id=242
+
+#EXTINF:-1 tvg-id="248" tvg-name="MTV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png" group-title="JioTv+ MUSIC",MTV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3af9106a677854a1b9f043eed3124e02:1e042abd297460e5031f50ddb6116d0f
+#EXT-X-DRM-ID: 248
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=248
+https://servertvhub.site/jiotv+/mpd.php?id=248
+
+#EXTINF:-1 tvg-id="250" tvg-name="Music India" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png" group-title="JioTv+ MUSIC",Music India
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=48240328d04d5e2ea776dd51a8098f8e:2e30947d51d3f5164ba4bb20a8433c7d
+#EXT-X-DRM-ID: 250
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=250
+https://servertvhub.site/jiotv+/mpd.php?id=250
+
+#EXTINF:-1 tvg-id="255" tvg-name="NDTV 24x7" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_24x7.png" group-title="JioTv+ ENGLISH",NDTV 24x7
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9b5f31aacf4f57758fb654a54b5aafec:e7ff670f95103a87bdb0ede3689f257b
+#EXT-X-DRM-ID: 255
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=255
+https://servertvhub.site/jiotv+/mpd.php?id=255
+
+#EXTINF:-1 tvg-id="258" tvg-name="NDTV India" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_India.png" group-title="JioTv+ NEWS",NDTV India
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ee104f22af7759e198e7d37539c41047:c1dbca553be670e76b01f23f06e72917
+#EXT-X-DRM-ID: 258
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=258
+https://servertvhub.site/jiotv+/mpd.php?id=258
+
+#EXTINF:-1 tvg-id="259" tvg-name="NDTV Profit" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_Profit.png" group-title="JioTv+ ENGLISH",NDTV Profit
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=null:null
+#EXT-X-DRM-ID: 259
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=259
+https://servertvhub.site/jiotv+/mpd.php?id=259
+
+#EXTINF:-1 tvg-id="279" tvg-name="Colors Rishtey" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsRishtey.png" group-title="JioTv+ ENTERTAINMENT",Colors Rishtey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=190829c4e2b05b8ca547d2cd30ab3bba:a28225e91492ce2d6601874c701bf9bd
+#EXT-X-DRM-ID: 279
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=279
+https://servertvhub.site/jiotv+/mpd.php?id=279
+
+#EXTINF:-1 tvg-id="286" tvg-name="Animal Planet HD English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/AnimalPlanetHDEng.png" group-title="JioTv+ ENGLISH",Animal Planet HD English
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aafd067e9c3e50c4b25c239373b92103:4a3162f66c9bb5e24d05873bf7aa05f2
+#EXT-X-DRM-ID: 286
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=286
+https://servertvhub.site/jiotv+/mpd.php?id=286
+
+#EXTINF:-1 tvg-id="288" tvg-name="Sanskar" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sanskar.png" group-title="JioTv+ DEVOTIONAL",Sanskar
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec0de96aee1c5b389df50f5cbc556e46:3405c00e6b634519febed3948e9e400c
+#EXT-X-DRM-ID: 288
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=288
+https://servertvhub.site/jiotv+/mpd.php?id=288
+
+#EXTINF:-1 tvg-id="290" tvg-name="sonic Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Tamil.png" group-title="JioTv+ TAMIL",sonic Tamil
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a62d4ca4ef095564bede0fe525956634:5e34a5126bfe29c18947046513f18cce
+#EXT-X-DRM-ID: 290
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=290
+https://servertvhub.site/jiotv+/mpd.php?id=290
+
+#EXTINF:-1 tvg-id="291" tvg-name="SET HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="JioTv+ ENTERTAINMENT",SET HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=null:null
+#EXT-X-DRM-ID: 291
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=291
+https://servertvhub.site/jiotv+/mpd.php?id=291
+
+#EXTINF:-1 tvg-id="317" tvg-name="Star Jalsha HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Jalsha_HD.png" group-title="JioTv+ BENGALI",Star Jalsha HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7810c0264da15a62b200a3254d041aed:cb1e3bcfcdb1281b85625b12dae6de43
+#EXT-X-DRM-ID: 317
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=317
+https://servertvhub.site/jiotv+/mpd.php?id=317
+
+#EXTINF:-1 tvg-id="336" tvg-name="Star Pravah HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Pravah_HD.png" group-title="JioTv+ MARATHI",Star Pravah HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ac5f#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 https://servertvhub.site/cache/manifest.mpd?id=32|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
 
