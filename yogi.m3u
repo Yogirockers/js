@@ -1,5 +1,9 @@
 
 #EXTM3U
+
+#EXTINF: -1 tvg-id="" tvg-name="Village Cooking Channel" tvg-logo="https://i.ibb.co/xKx1bjPJ/Picsart-25-09-02-13-16-32-922.png" group-title="Infotainment", Village Cooking Channel
+https://m3u.8088y.fun/live/Village_Cooking_Channel.m3u8?tk=testing
+
 #EXTINF:-1 tvg-id="896" tvg-name="Sun TV HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png" group-title="Tamil",Sun TV HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
