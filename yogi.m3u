@@ -30,13 +30,13 @@ https://m3u.8088y.fun/live/suntvd.m3u8?tk=testing
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1356
 https://servertvhub.site/jiotv+/mpd.php?id=1356
 
-#EXTINF:-1 tvg-id="368" tvg-name="Star Vijay HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Vijay_HD.png" group-title="Tamil",Star Vijay HD
+#KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=849d6b062b645abea937ec7f2b6b1686:1f65503420b88d11a16d4a4eacd95f0f
-#EXT-X-DRM-ID: 368
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=368
-https://servertvhub.site/jiotv+/mpd.php?id=368
+#KODIPROP:inputstream.adaptive.license_key=25dd000e5523540cbd82ae7957fef7d7:f1d145d84b648242ef0b3ad2cac7eeb8
+#KODIPROP:http.useragent=plaYtv/7.1.5 (Linux;Android 12) ExoPlayerLib/2.11.7
+#EXTINF:-1 tvg-id="4" tvg-name="Star Vijay HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Vijay_HD.png" group-title="Tamil",Star Vijay HD
+https://yoginetworks.unaux.com/admin/parse.php?id=4
 
 #EXTINF:-1 tvg-id="429" tvg-name="Colors Tamil HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsTamilHD.png" group-title="Tamil",Colors Tamil HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
