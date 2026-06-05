@@ -1,7 +1,7 @@
 
 #EXTM3U
 
-#EXTINF: -1 tvg-id="" tvg-name="Village Cooking Channel" tvg-logo="https://i.ibb.co/xKx1bjPJ/Picsart-25-09-02-13-16-32-922.png" group-title="Infotainment", Village Cooking Channel
+#EXTINF: -1 tvg-id="" tvg-name="Village Cooking Channel" tvg-logo="https://i.ibb.co/xKx1bjPJ/Picsart-25-09-02-13-16-32-922.png" group-title="Tamil", Village Cooking Channel
 https://m3u.8088y.fun/live/Village_Cooking_Channel.m3u8?tk=testing
 
 #EXTINF:-1 tvg-id="896" tvg-name="Sun TV HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png" group-title="Tamil",Sun TV HD
@@ -16,7 +16,7 @@ https://servertvhub.site/jiotv+/mpd.php?id=896
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59e6c93d4fe43353b34a71eb87185aaa:f415c124a07c595b97c43cc9a96ded30
-#EXTINF:-1 tvg-id="sun194403" tvg-name="Sun TV HD 1" tvg-logo="https://tatalogo.pages.dev/521.png" group-title="Entertainment",Sun TV HD
+#EXTINF:-1 tvg-id="sun194403" tvg-name="Sun TV HD 1" tvg-logo="https://tatalogo.pages.dev/521.png" group-title="Tamil",Sun TV HD
 https://m3u.8088y.fun/jtvp/Sun_TV_HD.mpd?tk=testing
 
 #EXTINF: -1 tvg-id="sun195491" tvg-name="Sun TV HDR 10+" tvg-logo="https://i.ibb.co/TM9PxFSg/Picsart-25-12-02-14-25-08-721.png" group-title="Tamil", Sun TV HDR (sunnxt)
@@ -30,7 +30,7 @@ https://m3u.8088y.fun/live/suntvd.m3u8?tk=testing
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1356
 https://servertvhub.site/jiotv+/mpd.php?id=1356
 
-#EXTINF:-1 tvg-id="368" tvg-name="Star Vijay HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Vijay_HD.png" group-title="JioTv+ TAMIL",Star Vijay HD
+#EXTINF:-1 tvg-id="368" tvg-name="Star Vijay HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Vijay_HD.png" group-title="Tamil",Star Vijay HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=25dd000e5523540cbd82ae7957fef7d7:f1d145d84b648242ef0b3ad2cac7eeb8
