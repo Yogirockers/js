@@ -1,7 +1,8 @@
-#EXTM3U
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=72499c6ad44cc37d95a9075420911110:b5416326114a13e90662a4fbaf3c532b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/397_144.png" group-title="Movies", Astro Vaanavil
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_ott.mpd
+[
+  {
+    "last_updated": "17:50 07-06-2026"
+  },
+  {
+    "cookie": "__hdnea__=st=1776183205~exp=1776204805~acl=/*~hmac=599fd2b436d110366d16544123a2310a3ca052e64c2ba907e6b6b7c109e9a8e6"
+  }
+]
