@@ -717,6 +717,9 @@ https://view.rcserver.in/tmp_hls19/ammavision/index.m3u8?tk=testing
 #EXTINF:-1 tvg-id="jayam_tv_5" group-title="Local Channels",Jayam Tv
 https://view.rcserver.in/tmp_hls20/index.m3u8?tk=testing
 
+#EXTINF:-1 tvg-id="rs_tv_hd" tvg-logo="" group-title="Local Channels",Rs Tv Hd
+https://stream.onecloudlive.in/rstv/rstvhd/index.m3u8
+
 #EXTINF:-1 tvg-id="sana_tv2" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,Fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/temp_live/cdn/hls/channel/sanatv_thumbnail-v2/sanatv_thumbnail.png" Group-title="local Channels", Sana Tv
 https://cable75tataplay.akamaized.net/dash/sanatv.mpd?tk=testing
 #EXTINF:-1 tvg-id="suriyan_tv" tvg-name="Suriyan Tv" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240303_2107113622067629098400908.png" group-title="Local Channels",Suriyan Tv
