@@ -4,20 +4,12 @@
 #EXTINF: -1 tvg-id="" tvg-name="Village Cooking Channel" tvg-logo="https://i.ibb.co/xKx1bjPJ/Picsart-25-09-02-13-16-32-922.png" group-title="Tamil", Village Cooking Channel
 https://m3u.8088y.fun/live/Village_Cooking_Channel.m3u8?tk=testing
 
-#EXTINF:-1 tvg-id="896" tvg-name="Sun TV HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png" group-title="Tamil",Sun TV HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f415c124a07c595b97c43cc9a96ded30:59e6c93d4fe43353b34a71eb87185aaa
-#EXT-X-DRM-ID: 896
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=896
-https://servertvhub.site/jiotv+/mpd.php?id=896
-
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=59e6c93d4fe43353b34a71eb87185aaa:f415c124a07c595b97c43cc9a96ded30
-#EXTINF:-1 tvg-id="sun194403" tvg-name="Sun TV HD 1" tvg-logo="https://tatalogo.pages.dev/521.png" group-title="Tamil",Sun TV HD
-https://m3u.8088y.fun/jtvp/Sun_TV_HD.mpd?tk=testing
+#KODIPROP:inputstream.adaptive.license_key=3891557f1cb14dedb7545bf52499d748:fb662f742e5f5e0c61a7c1c66d2b019a
+#EXTINF:-1 tvg-id="sun194403" tvg-name="Sun TV HD" tvg-logo="https://tatalogo.pages.dev/521.png" group-title="Entertainment",Sun TV HD (sunnxt)
+https://m3u.8088y.fun/sxt/Sun_TV_HD.mpd?tk=testing
 
 #EXTINF: -1 tvg-id="sun195491" tvg-name="Sun TV HDR 10+" tvg-logo="https://i.ibb.co/TM9PxFSg/Picsart-25-12-02-14-25-08-721.png" group-title="Tamil", Sun TV HDR (sunnxt)
 https://m3u.8088y.fun/live/suntvd.m3u8?tk=testing
@@ -47,14 +39,12 @@ https://servertvhub.site/jiotv+/mpd.php?id=368
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=429
 https://servertvhub.site/jiotv+/mpd.php?id=429
 
-
-#EXTINF:-1 tvg-id="894" tvg-name="KTV HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/KTV_HD.png" group-title="Tamil",KTV HD
+#KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ba9bfe750a56514e9c63c456fad1e428:e0ca0ee9dbaac2942753d928b92824c5
-#EXT-X-DRM-ID: 894
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=894
-https://servertvhub.site/jiotv+/mpd.php?id=894
+#KODIPROP:inputstream.adaptive.license_key=351e547391bb45cbac66d2cb9ec0c294:3bd646753f4903eee3b404646c7819d3
+#EXTINF:-1 tvg-id="sun194405" tvg-name="KTV HD" tvg-logo="https://tatalogo.pages.dev/380.png" group-title="Movies", KTV HD
+https://m3u.8088y.fun/sxt/KTV_HD.mpd?tk=testing
 
 #EXTINF:-1 tvg-id="3051" tvg-name="Zee Thirai HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeThiraiHD.png" group-title="Tamil",Zee Thirai HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -64,13 +54,8 @@ https://servertvhub.site/jiotv+/mpd.php?id=894
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=3051
 https://servertvhub.site/jiotv+/mpd.php?id=3051
 
-#EXTINF:-1 tvg-id="3266" tvg-name="Vijay Super HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vijay_Super_HD.png" group-title="Tamil",Vijay Super HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=accd6f6ff0f55c1db84694101db6fd2d:64b60808649a36fff96fd10016cf0add
-#EXT-X-DRM-ID: 3266
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=3266
-https://servertvhub.site/jiotv+/mpd.php?id=3266
+#EXTINF: -1 tvg-id="ts496" tvg-name="Star Vijay HD" tvg-logo="https://tatalogo.pages.dev/496.png" group-title="Entertainment",2 - Star Vijay HD
+http://main.light-ott.net/play/live.php?mac=00:1A:79:3D:1E:30&stream=908566&extension=ts&play_token=IqBeEOK310
 
 
 #EXTINF:-1 tvg-id="368" tvg-name="Star Vijay HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Vijay_HD.png" group-title="Tamil",Star Vijay HD
@@ -410,13 +395,12 @@ https://servertvhub.site/jiotv+/mpd.php?id=873
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=894
 https://servertvhub.site/jiotv+/mpd.php?id=894
 
-#EXTINF:-1 tvg-id="895" tvg-name="Sun Music HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Music_HD.png" group-title="Tamil",Sun Music HD
+#KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fa0c0f2dd6ce50208b77e16976e38d90:7f83a8e5178b6562d81968886fc3fe8a
-#EXT-X-DRM-ID: 895
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=895
-https://servertvhub.site/jiotv+/mpd.php?id=895
+#KODIPROP:inputstream.adaptive.license_key=b5a2c6d13b9748de9ceebc0a8adc8af3:e806fec1bf1c8a844216118c94bad020
+#EXTINF:-1 tvg-id="895" tvg-name="Sun Music HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11957-j9lu8sc8-v1/imageContent-11957-j9lu8sc8-m1.png" group-title="Music", Sun Music HD
+https://m3u.8088y.fun/sxt/Sun_Music_HD.mpd?tk=testing
 
 #EXTINF:-1 tvg-id="896" tvg-name="Sun TV HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png" group-title="Tamil",Sun TV HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
