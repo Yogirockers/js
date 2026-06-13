@@ -139,6 +139,62 @@ https://servertvhub.site/jiotv+/mpd.php?id=290
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=550
 https://servertvhub.site/jiotv+/mpd.php?id=550
 
+#EXTINF:-1 tvg-id="1373" tvg-name="Disney Channel" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Channel.png" group-title="JioTv+ KIDS",Disney Channel
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5181d3e6698055578cedc5bfc86b3e56:3dca7917d8cf9bb7095dc72b48bdcd3c
+#EXT-X-DRM-ID: 1373
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1373
+https://servertvhub.site/jiotv+/mpd.php?id=1373
+
+#EXTINF:-1 tvg-id="1374" tvg-name="Disney Junior" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Junior.png" group-title="JioTv+ KIDS",Disney Junior
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b1f9702f7d853c1b198495f64924311:40e11e60a12dd6c154dfea0ffbd5bda8
+#EXT-X-DRM-ID: 1374
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1374
+https://servertvhub.site/jiotv+/mpd.php?id=1374
+
+#EXTINF:-1 tvg-id="1375" tvg-name="Disney International HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_International_HD.png" group-title="JioTv+ KIDS",Disney International HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d0e021aa91c65e68a7028c2a6a762eca:d50822403365e360d12840251cecee84
+#EXT-X-DRM-ID: 1375
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1375
+https://servertvhub.site/jiotv+/mpd.php?id=1375
+
+#EXTINF:-1 tvg-id="1388" tvg-name="Goodness" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Goodness_TV.png" group-title="JioTv+ MALAYALAM",Goodness
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c0c468fdbe715ea184a9abfb42b41de8:a2f9916c0ca9b331a0e98ab8201639ed
+#EXT-X-DRM-ID: 1388
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1388
+https://servertvhub.site/jiotv+/mpd.php?id=1388
+
+#EXTINF:-1 tvg-id="1391" tvg-name="Hungama" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Hungama.png" group-title="JioTv+ KIDS",Hungama
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=454f8353caac500d95d641e0c7cfe048:0aaca46ea0f5096335598781fbe590e4
+#EXT-X-DRM-ID: 1391
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1391
+https://servertvhub.site/jiotv+/mpd.php?id=1391
+
+#EXTINF:-1 tvg-id="1392" tvg-name="Super Hungama" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Super_Hungama.png" group-title="JioTv+ KIDS",Super Hungama
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7a450f0820c4589690eb336c29f18da6:820e84119563b56d6e6f0bf514cbdc3c
+#EXT-X-DRM-ID: 1392
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1392
+https://servertvhub.site/jiotv+/mpd.php?id=1392
+
+#EXTINF:-1 tvg-id="1393" tvg-name="Sony Wah" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyWAH.png" group-title="JioTv+ ENTERTAINMENT",Sony Wah
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=336eb0b114415971a745af85368c8a7c:4dc9974ddfec2c6da275acd6d617661b
+#EXT-X-DRM-ID: 1393
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1393
+https://servertvhub.site/jiotv+/mpd.php?id=1393
+
 #EXTINF:-1 tvg-id="557" tvg-name="Chutti TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Chutti_TV.png" group-title="Tamil",Chutti TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
