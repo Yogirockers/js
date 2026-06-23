@@ -24,40 +24,41 @@ https://servertvhub.site/jiotv+/mpd.php?id=1356
 https://servertvhub.site/jiotv+/mpd.php?id=368
 
 
-#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 tvg-id="429" tvg-name="Colors Tamil HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsTamilHD.png" group-title="JioTv+ TAMIL",Colors Tamil HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=baef1ec2689b57478d44a4138c0deeb7:e264b8d2dd6661ca6ca8540bffc44638
-#KODIPROP:http.useragent=plaYtv/7.1.5 (Linux;Android 12) ExoPlayerLib/2.11.7
-#EXTINF:-1 tvg-id="9" tvg-name="Colors Tamil HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsTamilHD.png" group-title="Tamil",Colors Tamil HD
-https://yoginetworks.me/logic.php?id=9
+#EXT-X-DRM-ID: 429
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=429
+https://servertvhub.site/jiotv+/mpd.php?id=429
 
-#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 tvg-id="709" tvg-name="Adithya TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Adithya_TV.png" group-title="JioTv+ TAMIL",Adithya TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b7d2d1228b275e219c9cdb282038d4c3:d75d95afc4a181803d2188456a052477
-#KODIPROP:http.useragent=plaYtv/7.1.5 (Linux;Android 12) ExoPlayerLib/2.11.7
-#EXTINF:-1 tvg-id="29" tvg-name="Adithya TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Adithya_TV.png" group-title="Tamil",Adithya TV
-https://yoginetworks.me/logic.php?id=29|User-Agent=plaYtv/7.1.5%20(Linux;Android%2012)%20ExoPlayerLib/2.11.7&Cookie=__hdnea__=st=1782014455~exp=1782036055~acl=/*~hmac=8b5572d0327eac82a2bbacc3a7f39cb026529f4ac023a12157c3bf5b3bf58d61
+#EXT-X-DRM-ID: 709
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=709
+https://servertvhub.site/jiotv+/mpd.php?id=709
 
-#EXTINF:-1 tvg-id="SIRIPOLI.in" tvg-name="Sirippoli" tvg-logo="https://tatalogo.pages.dev/611.png" group-title="Entertainment", Sirippoli
+#EXTINF:-1 tvg-id="SIRIPOLI.in" tvg-name="Sirippoli" tvg-logo="https://tatalogo.pages.dev/611.png" group-title="Tamil", Sirippoli
 https://m3u.8088y.fun/live/sirippoli.m3u8?tk=testing
 
-#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 tvg-id="1647" tvg-name="MK Six" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MK_Six.png" group-title="JioTv+ TAMIL",MK Six
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=80ff89cbc91a55a087bccbdfc45acc1d:ea3de51dcc665bce0c12ca93ac8c9cce
-#KODIPROP:http.useragent=plaYtv/7.1.5 (Linux;Android 12) ExoPlayerLib/2.11.7
-#EXTINF:-1 tvg-id="61" tvg-name="MK Six" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MK_Six.png" group-title="Tamil",MK Six
-https://yoginetworks.me/logic.php?id=61
+#EXT-X-DRM-ID: 1647
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1647
+https://servertvhub.site/jiotv+/mpd.php?id=1647
 
-#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 tvg-id="894" tvg-name="KTV HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/KTV_HD.png" group-title="JioTv+ TAMIL",KTV HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ba9bfe750a56514e9c63c456fad1e428:e0ca0ee9dbaac2942753d928b92824c5
-#KODIPROP:http.useragent=plaYtv/7.1.5 (Linux;Android 12) ExoPlayerLib/2.11.7
-#EXTINF:-1 tvg-id="2" tvg-name="KTV HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/KTV_HD.png" group-title="Tamil",KTV HD
-https://yoginetworks.me/logic.php?id=2
+#EXT-X-DRM-ID: 894
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=894
+https://servertvhub.site/jiotv+/mpd.php?id=894
+
 
 #EXTINF:-1 tvg-id="3051" tvg-name="Zee Thirai HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeThiraiHD.png" group-title="Tamil",Zee Thirai HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -67,13 +68,13 @@ https://yoginetworks.me/logic.php?id=2
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=3051
 https://servertvhub.site/jiotv+/mpd.php?id=3051
 
-#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 tvg-id="3266" tvg-name="Vijay Super HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vijay_Super_HD.png" group-title="JioTv+ TAMIL",Vijay Super HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=accd6f6ff0f55c1db84694101db6fd2d:64b60808649a36fff96fd10016cf0add
-#KODIPROP:http.useragent=plaYtv/7.1.5 (Linux;Android 12) ExoPlayerLib/2.11.7
-#EXTINF:-1 tvg-id="76" tvg-name="Vijay Super HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vijay_Super_HD.png" group-title="Tamil",Vijay Super HD
-https://yoginetworks.me/logic.php?id=76
+#EXT-X-DRM-ID: 3266
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=3266
+https://servertvhub.site/jiotv+/mpd.php?id=3266
 
 #EXTINF:-1 tvg-id="999" tvg-name="Yet HD" tvg-logo="https://tamilradios.org/wp-content/uploads/2025/10/yet-tv-1.jpg" group-title="Tamil",Yet HD
 https://live.yettelevision.com:5443/LiveApp/streams/yettv.m3u8
@@ -95,21 +96,22 @@ https://servertvhub.site/jiotv+/mpd.php?id=417
 https://servertvhub.site/jiotv+/mpd.php?id=419
 
 
-#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 tvg-id="895" tvg-name="Sun Music HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Music_HD.png" group-title="JioTv+ TAMIL",Sun Music HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa0c0f2dd6ce50208b77e16976e38d90:7f83a8e5178b6562d81968886fc3fe8a
-#KODIPROP:http.useragent=plaYtv/7.1.5 (Linux;Android 12) ExoPlayerLib/2.11.7
-#EXTINF:-1 tvg-id="44" tvg-name="Sun Music HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Music_HD.png" group-title="Tamil",Sun Music HD
-https://yoginetworks.me/logic.php?id=44
+#EXT-X-DRM-ID: 895
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=895
+https://servertvhub.site/jiotv+/mpd.php?id=895
 
-#KODIPROP:inputstream=inputstream.adaptive
+
+#EXTINF:-1 tvg-id="748" tvg-name="Raj Musix" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Musix.png" group-title="JioTv+ TAMIL",Raj Musix
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d5968d25bb125bd6a8a1afe4b45d8711:ecb4f2a37bb7511baf2a3a93cdef375e
-#KODIPROP:http.useragent=plaYtv/7.1.5 (Linux;Android 12) ExoPlayerLib/2.11.7
-#EXTINF:-1 tvg-id="32" tvg-name="Raj Musix" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Musix.png" group-title="Tamil",Raj Musix
-https://yoginetworks.me/logic.php?id=32
+#EXT-X-DRM-ID: 748
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=748
+https://servertvhub.site/jiotv+/mpd.php?id=748
 
 #EXTINF:-1 tvg-id="420" tvg-name="Jaya Max" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Max.png" group-title="Tamil",Jaya Max
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -146,13 +148,21 @@ https://m3u.8088y.fun/local/7StarMusic.m3u8?tk=testing
 #EXTINF:-1 tvg-id="7S.MUSIC.in" tvg-name="MN Music" tvg-logo="https://tamilradios.org/wp-content/uploads/2025/01/mn-music.jpg" group-title="Music", MN Music
 https://mntv.livebox.co.in/musichls/live.m3u8
 
-#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 tvg-id="786" tvg-name="Kappa TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kappa_TV.png" group-title="JioTv+ MALAYALAM",Kappa TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=03dfdaa1d3e150508ba9e26c05be7e90:0352c4fd4204955e3b152ee551d2bd31
-#KODIPROP:http.useragent=plaYtv/7.1.5 (Linux;Android 12) ExoPlayerLib/2.11.7
-#EXTINF:-1 tvg-id="357" tvg-name="Kappa TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kappa_TV.png" group-title="Malayalam",Kappa TV
-https://yoginetworks.me/logic.php?id=357
+#EXT-X-DRM-ID: 786
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=786
+https://servertvhub.site/jiotv+/mpd.php?id=786
+
+#EXTINF:-1 tvg-id="682" tvg-name="Sun Life" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Life.png" group-title="JioTv+ TAMIL",Sun Life
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=03fff2c1ecea574b98da00b05c2a0be9:41670b42142fa8ba6bd3cf9fc2ae8cf5
+#EXT-X-DRM-ID: 682
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=682
+https://servertvhub.site/jiotv+/mpd.php?id=682
 
 #EXTINF:-1 tvg-id="418" tvg-name="Jaya Plus" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Plus.png" group-title="Tamil",Jaya Plus
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -162,21 +172,21 @@ https://yoginetworks.me/logic.php?id=357
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=418
 https://servertvhub.site/jiotv+/mpd.php?id=418
 
-#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 tvg-id="873" tvg-name="Sony Yay Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyYAYTam.png" group-title="JioTv+ TAMIL",Sony Yay Tamil
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e28fc2f196045ad5a74c7eee8e4973f3:41e9517d0be1f231017a04ad93a866a1
-#KODIPROP:http.useragent=plaYtv/7.1.5 (Linux;Android 12) ExoPlayerLib/2.11.7
-#EXTINF:-1 tvg-id="43" tvg-name="Sony Yay Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyYAYTam.png" group-title="Tamil",Sony Yay Tamil
-https://yoginetworks.me/logic.php?id=43
+#EXT-X-DRM-ID: 873
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=873
+https://servertvhub.site/jiotv+/mpd.php?id=873
 
-#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 tvg-id="290" tvg-name="sonic Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Tamil.png" group-title="JioTv+ TAMIL",sonic Tamil
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a62d4ca4ef095564bede0fe525956634:5e34a5126bfe29c18947046513f18cce
-#KODIPROP:http.useragent=plaYtv/7.1.5 (Linux;Android 12) ExoPlayerLib/2.11.7
-#EXTINF:-1 tvg-id="3" tvg-name="sonic Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Tamil.png" group-title="Tamil",sonic Tamil
-https://yoginetworks.me/logic.php?id=3
+#EXT-X-DRM-ID: 290
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=290
+https://servertvhub.site/jiotv+/mpd.php?id=290
 
 #EXTINF:-1 tvg-id="542" tvg-name="Pogo Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Tamil.png" group-title="Tamil",Pogo Tamil
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -211,45 +221,53 @@ https://servertvhub.site/jiotv+/mpd.php?id=290
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=550
 https://servertvhub.site/jiotv+/mpd.php?id=550
 
-#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 tvg-id="1373" tvg-name="Disney Channel" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Channel.png" group-title="JioTv+ KIDS",Disney Channel
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=400d0f354dca5d44a540cd80db766f4c:22da170bb5ae36ef5cab42b3842658d8
-#KODIPROP:http.useragent=plaYtv/7.1.5 (Linux;Android 12) ExoPlayerLib/2.11.7
-#EXTINF:-1 tvg-id="585" tvg-name="Disney Channel" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Channel.png" group-title="Kids",Disney Channel
-https://yoginetworks.me/logic.php?id=585
+#EXT-X-DRM-ID: 1373
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1373
+https://servertvhub.site/jiotv+/mpd.php?id=1373
 
-#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 tvg-id="1374" tvg-name="Disney Junior" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Junior.png" group-title="JioTv+ KIDS",Disney Junior
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a92e184d07a75cb6817cee9f0a677b47:d9b68fa62fb2ae68a044d36f6306569f
-#KODIPROP:http.useragent=plaYtv/7.1.5 (Linux;Android 12) ExoPlayerLib/2.11.7
-#EXTINF:-1 tvg-id="586" tvg-name="Disney Junior" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Junior.png" group-title="Kids",Disney Junior
-https://yoginetworks.me/logic.php?id=586
+#EXT-X-DRM-ID: 1374
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1374
+https://servertvhub.site/jiotv+/mpd.php?id=1374
 
-#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 tvg-id="1375" tvg-name="Disney International HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_International_HD.png" group-title="JioTv+ KIDS",Disney International HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2504a914062c5bdeb186269abab353ad:0074716c4730c473be85070b2ba46cc9
-#KODIPROP:http.useragent=plaYtv/7.1.5 (Linux;Android 12) ExoPlayerLib/2.11.7
-#EXTINF:-1 tvg-id="587" tvg-name="Disney International HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_International_HD.png" group-title="Kids",Disney International HD
-https://yoginetworks.me/logic.php?id=587
+#EXT-X-DRM-ID: 1375
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1375
+https://servertvhub.site/jiotv+/mpd.php?id=1375
 
-#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 tvg-id="1388" tvg-name="Goodness" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Goodness_TV.png" group-title="JioTv+ MALAYALAM",Goodness
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c0c468fdbe715ea184a9abfb42b41de8:a2f9916c0ca9b331a0e98ab8201639ed
+#EXT-X-DRM-ID: 1388
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1388
+https://servertvhub.site/jiotv+/mpd.php?id=1388
+
+#EXTINF:-1 tvg-id="1391" tvg-name="Hungama" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Hungama.png" group-title="JioTv+ KIDS",Hungama
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a24c34e396d75a18bce46aa471f1e164:b2b0db9965848d72fc3c13bf09724e83
-#KODIPROP:http.useragent=plaYtv/7.1.5 (Linux;Android 12) ExoPlayerLib/2.11.7
-#EXTINF:-1 tvg-id="589" tvg-name="Hungama" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Hungama.png" group-title="Kids",Hungama
-https://yoginetworks.me/logic.php?id=589
+#EXT-X-DRM-ID: 1391
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1391
+https://servertvhub.site/jiotv+/mpd.php?id=1391
 
-#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 tvg-id="1392" tvg-name="Super Hungama" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Super_Hungama.png" group-title="JioTv+ KIDS",Super Hungama
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=688db477181f50fd981c94efda31d6b8:9572ab827846677bc7e84fbc53ccc226
-#KODIPROP:http.useragent=plaYtv/7.1.5 (Linux;Android 12) ExoPlayerLib/2.11.7
-#EXTINF:-1 tvg-id="590" tvg-name="Super Hungama" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Super_Hungama.png" group-title="Kids",Super Hungama
-https://yoginetworks.me/logic.php?id=590
+#EXT-X-DRM-ID: 1392
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1392
+https://servertvhub.site/jiotv+/mpd.php?id=1392
 
 EXTINF:-1 tvg-id="557" tvg-name="Chutti TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Chutti_TV.png" group-title="Tamil",Chutti TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -259,29 +277,29 @@ EXTINF:-1 tvg-id="557" tvg-name="Chutti TV" tvg-logo="https://jiotv.catchup.cdn.
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=557
 https://servertvhub.site/jiotv+/mpd.php?id=557
 
-#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 tvg-id="1219" tvg-name="Animal Planet HD Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/AnimalPlanetHDTam.png" group-title="JioTv+ TAMIL",Animal Planet HD Tamil
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=95d44d9a97a45af5bef4bb4034a5c777:1fb42ac605e429f3b5a061d377a491f4
-#KODIPROP:http.useragent=plaYtv/7.1.5 (Linux;Android 12) ExoPlayerLib/2.11.7
-#EXTINF:-1 tvg-id="53" tvg-name="Animal Planet HD Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/AnimalPlanetHDTam.png" group-title="Tamil",Animal Planet HD Tamil
-https://yoginetworks.me/logic.php?id=53
+#EXT-X-DRM-ID: 1219
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1219
+https://servertvhub.site/jiotv+/mpd.php?id=1219
 
-#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 tvg-id="1332" tvg-name="Nat Geo Wild HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nat_Geo_Wild_HD.png" group-title="JioTv+ ENGLISH",Nat Geo Wild HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=999ce48f3e4d5de8b72c34f213176d9e:13e3ca891d32d158d8108007fef88388
-#KODIPROP:http.useragent=plaYtv/7.1.5 (Linux;Android 12) ExoPlayerLib/2.11.7
-#EXTINF:-1 tvg-id="566" tvg-name="Nat Geo Wild HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nat_Geo_Wild_HD.png" group-title="English",Nat Geo Wild HD
-https://yoginetworks.me/logic.php?id=566
+#EXT-X-DRM-ID: 1332
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1332
+https://servertvhub.site/jiotv+/mpd.php?id=1332
 
-#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 tvg-id="853" tvg-name="Sony BBC Earth HD Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyBBCEarthTam.png" group-title="JioTv+ UNKNOWN",Sony BBC Earth HD Tamil
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=08855f130a055b2bbc9e6be66fd0f612:975ee9573958379452d7952377f687ff
-#KODIPROP:http.useragent=plaYtv/7.1.5 (Linux;Android 12) ExoPlayerLib/2.11.7
-#EXTINF:-1 tvg-id="387" tvg-name="Sony BBC Earth HD Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyBBCEarthTam.png" group-title="Unknown",Sony BBC Earth HD Tamil
-https://yoginetworks.me/logic.php?id=387
+#EXT-X-DRM-ID: 853
+#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=853
+https://servertvhub.site/jiotv+/mpd.php?id=853
 
 #EXTINF:-1 tvg-id="569" tvg-name="D Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Tamil.png" group-title="Tamil",D Tamil
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
