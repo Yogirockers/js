@@ -1,8 +1,1 @@
-[
-  {
-    "last_updated": "17:50 07-06-2026"
-  },
-  {
-    "cookie": "__hdnea__=st=1782918315~exp=1782939915~acl=/*~hmac=c9b4df1276b89dcbcd40574308219c847e55fe7430b0385fec0e036f2e7ba542"
-  }
-]
+__hdnea__=st=1782973842~exp=1782995442~acl=/*~hmac=a950129956fb46bdc18a8e41de92eed90b5a3ff63a10599231108dc78de43f99
