@@ -52,12 +52,7 @@ https://m3u.8088y.fun/live/sirippoli.m3u8?tk=testing
 https://servertvhub.site/jiotv+/mpd.php?id=1647
 
 #EXTINF:-1 tvg-id="894" tvg-name="KTV HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/KTV_HD.png" group-title="Tamil",KTV HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ba9bfe750a56514e9c63c456fad1e428:e0ca0ee9dbaac2942753d928b92824c5
-#EXT-X-DRM-ID: 894
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=894
-https://servertvhub.site/jiotv+/mpd.php?id=894
+#http://wbc27.us:80/live/Hu23hsgsgh/exXDdA2Fa/17448.ts
 
 
 #EXTINF:-1 tvg-id="3051" tvg-name="Zee Thirai HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeThiraiHD.png" group-title="Tamil",Zee Thirai HD
@@ -88,12 +83,7 @@ https://live.yettelevision.com:5443/LiveApp/streams/yettv.m3u8
 https://servertvhub.site/jiotv+/mpd.php?id=417
 
 #EXTINF:-1 tvg-id="419" tvg-name="Jaya TV HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_TV_HD.png" group-title="Tamil",Jaya TV HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=16a7f966a8695a58ab1a5311c3f98545:0e67031411209bb0688a8808cf8232f9
-#EXT-X-DRM-ID: 419
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=419
-http://wbc27.us:80/live/Hu23hsgsgh/exXDdA2Fa/8495.ts
+#http://wbc27.us:80/live/Hu23hsgsgh/exXDdA2Fa/8495.ts
 
 
 #EXTINF:-1 tvg-id="895" tvg-name="Sun Music HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Music_HD.png" group-title="Tamil",Sun Music HD
