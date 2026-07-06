@@ -47,7 +47,7 @@ https://m3u.8088y.fun/live/sirippoli.m3u8?tk=testing
 https://servertvhub.site/jiotv+/mpd.php?id=1647
 
 #EXTINF:-1 tvg-id="894" tvg-name="KTV HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/KTV_HD.png" group-title="Tamil",KTV HD
-#http://wbc27.us:80/live/Hu23hsgsgh/exXDdA2Fa/17448.ts
+http://line.your-tvsub.com:80/live/4c5d1ce3b7cf/6c95ca6b319a/281859.m3u8
 
 
 #EXTINF:-1 tvg-id="3051" tvg-name="Zee Thirai HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeThiraiHD.png" group-title="Tamil",Zee Thirai HD
