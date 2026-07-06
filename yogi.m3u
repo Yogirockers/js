@@ -51,12 +51,7 @@ http://line.your-tvsub.com:80/live/4c5d1ce3b7cf/6c95ca6b319a/281859.m3u8
 
 
 #EXTINF:-1 tvg-id="3051" tvg-name="Zee Thirai HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeThiraiHD.png" group-title="Tamil",Zee Thirai HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f533110565935b4899a9440721d330fc:fafd814a78b22b6ada60c15964e1d09b
-#EXT-X-DRM-ID: 3051
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=3051
-https://servertvhub.site/jiotv+/mpd.php?id=3051
+http://line.your-tvsub.com:80/live/4c5d1ce3b7cf/6c95ca6b319a/155912.m3u8
 
 #EXTINF:-1 tvg-id="3266" tvg-name="Vijay Super HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vijay_Super_HD.png" group-title="Tamil",Vijay Super HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
