@@ -20,12 +20,7 @@ http://line.your-tvsub.com:80/live/4c5d1ce3b7cf/6c95ca6b319a/155874.m3u8
 
 
 #EXTINF:-1 tvg-id="429" tvg-name="Colors Tamil HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsTamilHD.png" group-title="Tamil",Colors Tamil HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=baef1ec2689b57478d44a4138c0deeb7:e264b8d2dd6661ca6ca8540bffc44638
-#EXT-X-DRM-ID: 429
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=429
-https://servertvhub.site/jiotv+/mpd.php?id=429
+http://103.155.18.186:8000/play/a06o/index.m3u8
 
 #EXTINF:-1 tvg-id="709" tvg-name="Adithya TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Adithya_TV.png" group-title="Tamil",Adithya TV
 http://line.your-tvsub.com:80/live/4c5d1ce3b7cf/6c95ca6b319a/155892.m3u8
@@ -209,12 +204,7 @@ http://line.your-tvsub.com:80/live/4c5d1ce3b7cf/6c95ca6b319a/155884.m3u8
 http://line.your-tvsub.com:80/live/4c5d1ce3b7cf/6c95ca6b319a/155885.m3u8
 
 #EXTINF:-1 tvg-id="569" tvg-name="D Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Tamil.png" group-title="Tamil",D Tamil
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=28cc7ab1093057648dc408417bb57d43:45d146719c37669b4ab7f700fe63e82f
-#EXT-X-DRM-ID: 569
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=569
-https://servertvhub.site/jiotv+/mpd.php?id=569
+http://103.155.18.186:8000/play/a054/index.m3u8
 
 #EXTINF:-1 tvg-id="579" tvg-name="History TV18 HD Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Tamil.png" group-title="Tamil",History TV18 HD Tamil
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
