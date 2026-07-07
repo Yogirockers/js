@@ -45,12 +45,7 @@ http://line.your-tvsub.com:80/live/4c5d1ce3b7cf/6c95ca6b319a/155875.m3u8
 https://live.yettelevision.com:5443/LiveApp/streams/yettv.m3u8
 
 #EXTINF:-1 tvg-id="417" tvg-name="J Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/J_Movies.png" group-title="Tamil",J Movies
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=531467efbbf156d793766adfe62d6a26:3e4eef5502a6da48b91894c33310ea93
-#EXT-X-DRM-ID: 417
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=417
-https://servertvhub.site/jiotv+/mpd.php?id=417
+http://fastshare1.com:80/live/25711345/late8airline/1618.ts
 
 #EXTINF:-1 tvg-id="419" tvg-name="Jaya TV HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_TV_HD.png" group-title="Tamil",Jaya TV HD
 http://line.your-tvsub.com:80/live/4c5d1ce3b7cf/6c95ca6b319a/155878.m3u8
@@ -70,25 +65,14 @@ http://line.your-tvsub.com:80/live/4c5d1ce3b7cf/6c95ca6b319a/155893.m3u8
 https://m3u.8088y.fun/live/Isai_Aruvi.m3u8?tk=testing
 
 #EXTINF:-1 tvg-id="ts400" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11583-j9jype8w-v3/imageContent-11583-j9jype8w-m3.png" group-title="Tamil",Mega Musiq
-https://m3u.8088y.fun/live/Mega_Musiq.m3u8?tk=testing
+http://fastshare1.com:80/live/25711345/late8airline/26164.ts
 
-#EXTINF:-1 tvg-id="jcv_music" tvg-logo="https://i.ibb.co/7t9gdB1v/1000145833.gif" group-title="Tamil",Jcv music
-https://m3u.8088y.fun/local/jcv_musix.m3u8?tk=testing
+#EXTINF:-1 tvg-id="ts400" tvg-logo="https://img.media.jio.com/tvpimages/96/65/302113_1749664252703_l_medium.jpgjype8w-m3.png" group-title="Tamil",Star Sports 1 Tamil
+http://fastshare1.com:80/live/25711345/late8airline/9722.ts
 
-#EXTINF:-1 tvg-id="RCMusic" group-title="Tamil",RC Music
-https://m3u.8088y.fun/local/rc_music.m3u8?tk=testing
+#EXTINF:-1 tvg-id="ts400" tvg-logo="https://img.media.jio.com/tvpimages/41/51/301983_1749666169105_l_medium.jpg" group-title="Tamil",Star Sports 2 Tamil
+http://fastshare1.com:80/live/25711345/late8airline/379753.ts
 
-#EXTINF:-1 tvg-id="ThiraiIsai" group-title="Tamil",Thirai Isai
-https://m3u.8088y.fun/local/ThiraiIsai.m3u8?tk=testing
-
-#EXTINF:-1 tvg-id="aaryaatv" tvg-name="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/aryatvtamil.png" group-title="Tamil",Aaryaa TV
-https://m3u.8088y.fun/local/aaryaa_tv.m3u8?tk=testing
-#EXTINF:-1 tvg-id="u_tv" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/utvtamil.png?width=200" Group-title="Tamil",utv
-https://m3u.8088y.fun/local/utv.mpd?tk=testing
-#EXTINF:-1 tvg-id="sachin_music" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240417_221843171827643876355363.png" group-title="Tamil", Sachin Music
-https://m3u.8088y.fun/local/sachin_music.m3u8?tk=testing
-#EXTINF:-1 tvg-id="7StarMusic" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1764994908_7SM%20Still%202.png" group-title="Tamil",7Star Music
-https://m3u.8088y.fun/local/7StarMusic.m3u8?tk=testing
 
 #EXTINF:-1 tvg-id="7S.MUSIC.in" tvg-name="MN Music" tvg-logo="https://tamilradios.org/wp-content/uploads/2025/01/mn-music.jpg" group-title="Tamil", MN Music
 https://mntv.livebox.co.in/musichls/live.m3u8
