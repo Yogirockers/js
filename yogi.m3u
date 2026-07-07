@@ -8,12 +8,7 @@ https://m3u.8088y.fun/live/Village_Cooking_Channel.m3u8?tk=testing
 http://line.your-tvsub.com:80/live/4c5d1ce3b7cf/6c95ca6b319a/155880.m3u8
 
 #EXTINF:-1 tvg-id="1356" tvg-name="Zee Tamil HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeTamilHD.png" group-title="Tamil",Zee Tamil HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e9dd4aa4accd53188659c4a7b45bd8c4:920ff1a99835cfeb26d4c0db04ee58bd
-#EXT-X-DRM-ID: 1356
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1356
-https://servertvhub.site/jiotv+/mpd.php?id=1356
+http://fastshare1.com:80/live/25711345/late8airline/98897.ts
 
 #EXTINF:-1 tvg-id="368" tvg-name="Star Vijay HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Vijay_HD.png" group-title="Tamil",Star Vijay HD
 http://line.your-tvsub.com:80/live/4c5d1ce3b7cf/6c95ca6b319a/155874.m3u8
