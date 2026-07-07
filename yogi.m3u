@@ -16,12 +16,7 @@ http://line.your-tvsub.com:80/live/4c5d1ce3b7cf/6c95ca6b319a/155880.m3u8
 https://servertvhub.site/jiotv+/mpd.php?id=1356
 
 #EXTINF:-1 tvg-id="368" tvg-name="Star Vijay HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Vijay_HD.png" group-title="Tamil",Star Vijay HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=25dd000e5523540cbd82ae7957fef7d7:f1d145d84b648242ef0b3ad2cac7eeb8
-#EXT-X-DRM-ID: 368
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=368
-https://servertvhub.site/jiotv+/mpd.php?id=368
+http://line.your-tvsub.com:80/live/4c5d1ce3b7cf/6c95ca6b319a/155874.m3u8
 
 
 #EXTINF:-1 tvg-id="429" tvg-name="Colors Tamil HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsTamilHD.png" group-title="Tamil",Colors Tamil HD
@@ -54,12 +49,7 @@ http://line.your-tvsub.com:80/live/4c5d1ce3b7cf/6c95ca6b319a/281859.m3u8
 http://line.your-tvsub.com:80/live/4c5d1ce3b7cf/6c95ca6b319a/155912.m3u8
 
 #EXTINF:-1 tvg-id="3266" tvg-name="Vijay Super HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vijay_Super_HD.png" group-title="Tamil",Vijay Super HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=accd6f6ff0f55c1db84694101db6fd2d:64b60808649a36fff96fd10016cf0add
-#EXT-X-DRM-ID: 3266
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=3266
-https://servertvhub.site/jiotv+/mpd.php?id=3266
+http://line.your-tvsub.com:80/live/4c5d1ce3b7cf/6c95ca6b319a/155875.m3u8
 
 #EXTINF:-1 tvg-id="999" tvg-name="Yet HD" tvg-logo="https://tamilradios.org/wp-content/uploads/2025/10/yet-tv-1.jpg" group-title="Tamil",Yet HD
 https://live.yettelevision.com:5443/LiveApp/streams/yettv.m3u8
@@ -73,33 +63,18 @@ https://live.yettelevision.com:5443/LiveApp/streams/yettv.m3u8
 https://servertvhub.site/jiotv+/mpd.php?id=417
 
 #EXTINF:-1 tvg-id="419" tvg-name="Jaya TV HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_TV_HD.png" group-title="Tamil",Jaya TV HD
-#http://wbc27.us:80/live/Hu23hsgsgh/exXDdA2Fa/8495.ts
+http://line.your-tvsub.com:80/live/4c5d1ce3b7cf/6c95ca6b319a/155878.m3u8
 
 
 #EXTINF:-1 tvg-id="895" tvg-name="Sun Music HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Music_HD.png" group-title="Tamil",Sun Music HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fa0c0f2dd6ce50208b77e16976e38d90:7f83a8e5178b6562d81968886fc3fe8a
-#EXT-X-DRM-ID: 895
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=895
-https://servertvhub.site/jiotv+/mpd.php?id=895
+http://line.your-tvsub.com:80/live/4c5d1ce3b7cf/6c95ca6b319a/155881.m3u8
 
 
 #EXTINF:-1 tvg-id="748" tvg-name="Raj Musix" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Musix.png" group-title="Tamil",Raj Musix
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d5968d25bb125bd6a8a1afe4b45d8711:ecb4f2a37bb7511baf2a3a93cdef375e
-#EXT-X-DRM-ID: 748
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=748
-https://servertvhub.site/jiotv+/mpd.php?id=748
+http://line.your-tvsub.com:80/live/4c5d1ce3b7cf/6c95ca6b319a/155913.m3u8
 
 #EXTINF:-1 tvg-id="420" tvg-name="Jaya Max" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Max.png" group-title="Tamil",Jaya Max
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5a6b703b87a75a728a8079ff3c5aa991:21295df12a0e76c1c15389b19cb85f21
-#EXT-X-DRM-ID: 420
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=420
-https://servertvhub.site/jiotv+/mpd.php?id=420
+http://line.your-tvsub.com:80/live/4c5d1ce3b7cf/6c95ca6b319a/155893.m3u8
 
 #EXTINF:-1 tvg-id="ts647" tvg-name="Isaiaruvi" tvg-logo="https://tatalogo.pages.dev/647.png" group-title="Tamil", Isaiaruvi
 https://m3u.8088y.fun/live/Isai_Aruvi.m3u8?tk=testing
