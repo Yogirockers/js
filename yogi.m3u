@@ -97,12 +97,7 @@ https://servertvhub.site/jiotv+/mpd.php?id=290
 http://line.your-tvsub.com:80/live/4c5d1ce3b7cf/6c95ca6b319a/1526439.m3u8
 
 #EXTINF:-1 tvg-id="546" tvg-name="Nick Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Tamil.png" group-title="Tamil",Nick Tamil
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7abfb289bb2f5747be84407b70dbd689:c5745d4c06cb52aff050298db0f7d9d9
-#EXT-X-DRM-ID: 546
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=546
-https://servertvhub.site/jiotv+/mpd.php?id=546
+http://fastshare1.com:80/live/25711345/late8airline/66163.ts
 
 #EXTM3U x-tvg-url="" logo="https://ik.imagekit.io/yjtx9nh9y/IMG_20250207_083415_447.jpg"
 #EXTINF:-1 tvg-id="290" tvg-name="sonic Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Tamil.png" group-title="Tamil",sonic Tamil
