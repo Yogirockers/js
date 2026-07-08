@@ -115,20 +115,10 @@ http://fastshare1.com:80/live/25711345/late8airline/66164.ts
 http://line.your-tvsub.com:80/live/4c5d1ce3b7cf/6c95ca6b319a/1526427.m3u8
 
 #EXTINF:-1 tvg-id="1374" tvg-name="Disney Junior" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Junior.png" group-title="Tamil",Disney Junior
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a92e184d07a75cb6817cee9f0a677b47:d9b68fa62fb2ae68a044d36f6306569f
-#EXT-X-DRM-ID: 1374
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1374
-https://servertvhub.site/jiotv+/mpd.php?id=1374
+http://fastshare1.com:80/live/25711345/late8airline/207676.ts
 
 #EXTINF:-1 tvg-id="1375" tvg-name="Disney International HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_International_HD.png" group-title="Tamil",Disney International HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2504a914062c5bdeb186269abab353ad:0074716c4730c473be85070b2ba46cc9
-#EXT-X-DRM-ID: 1375
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=1375
-https://servertvhub.site/jiotv+/mpd.php?id=1375
+http://fastshare1.com:80/live/25711345/late8airline/20925.ts
 
 #EXTINF:-1 tvg-id="1391" tvg-name="Hungama" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Hungama.png" group-title="Tamil",Hungama
 http://line.your-tvsub.com:80/live/4c5d1ce3b7cf/6c95ca6b319a/1097664.m3u8
