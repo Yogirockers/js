@@ -109,12 +109,7 @@ http://fastshare1.com:80/live/25711345/late8airline/66163.ts
 https://servertvhub.site/jiotv+/mpd.php?id=290
 
 #EXTINF:-1 tvg-id="550" tvg-name="Discovery Kids Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DiscoveryKidsTam.png" group-title="Tamil",Discovery Kids Tamil
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=527df4ddb18a530db7565fff6c06263f:b4ca95df03a230ba8e23a7226de77d05
-#EXT-X-DRM-ID: 550
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=550
-https://servertvhub.site/jiotv+/mpd.php?id=550
+http://fastshare1.com:80/live/25711345/late8airline/66164.ts
 
 #EXTINF:-1 tvg-id="1373" tvg-name="Disney Channel" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Channel.png" group-title="Tamil",Disney Channel
 http://line.your-tvsub.com:80/live/4c5d1ce3b7cf/6c95ca6b319a/1526427.m3u8
