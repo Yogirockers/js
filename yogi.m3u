@@ -42,9 +42,14 @@ http://line.your-tvsub.com:80/live/4c5d1ce3b7cf/6c95ca6b319a/155875.m3u8
 #EXTINF:-1 tvg-id="999" tvg-name="Yet HD" tvg-logo="https://tamilradios.org/wp-content/uploads/2025/10/yet-tv-1.jpg" group-title="Tamil",Yet HD
 https://live.yettelevision.com:5443/LiveApp/streams/yettv.m3u8
 
-#EXTINF:-1 tvg-id="999" tvg-name="Yet HD" tvg-logo="" group-title="Tamil",Tamil Cinema
-
+#EXTINF:-1 tvg-id="999" tvg-name="Tamil cinema 1" tvg-logo="" group-title="Tamil",Tamil Cinema
 http://fastshare1.com:80/live/25711345/late8airline/136431.ts
+
+#EXTINF:-1 tvg-id="999" tvg-name="Tamil cinema 2" tvg-logo="" group-title="Tamil",Tamil Cinema HD
+http://fastshare1.com:80/live/25711345/late8airline/121315.ts
+
+#EXTINF:-1 tvg-id="999" tvg-name="Tamil cinema 3" tvg-logo="" group-title="Tamil",Tamil Cinema 1
+http://fastshare1.com:80/live/25711345/late8airline/136453.ts
 
 #EXTINF:-1 tvg-id="417" tvg-name="J Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/J_Movies.png" group-title="Tamil",J Movies
 http://fastshare1.com:80/live/25711345/late8airline/1618.ts
