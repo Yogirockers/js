@@ -42,6 +42,10 @@ http://line.your-tvsub.com:80/live/4c5d1ce3b7cf/6c95ca6b319a/155875.m3u8
 #EXTINF:-1 tvg-id="999" tvg-name="Yet HD" tvg-logo="https://tamilradios.org/wp-content/uploads/2025/10/yet-tv-1.jpg" group-title="Tamil",Yet HD
 https://live.yettelevision.com:5443/LiveApp/streams/yettv.m3u8
 
+#EXTINF:-1 tvg-id="999" tvg-name="Yet HD" tvg-logo="" group-title="Tamil",Tamil Cinema
+
+http://fastshare1.com:80/live/25711345/late8airline/136431.ts
+
 #EXTINF:-1 tvg-id="417" tvg-name="J Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/J_Movies.png" group-title="Tamil",J Movies
 http://fastshare1.com:80/live/25711345/late8airline/1618.ts
 
@@ -144,20 +148,10 @@ http://103.155.18.186:8000/play/a054/index.m3u8
 
 
 #EXTINF:-1 tvg-id="636" tvg-name="Polimer News" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_News.png" group-title="Tamil",Polimer News
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ba0a790e27b95d8e9b8efbed923167f6:16313d871a82a6b8b15b5e32a4c764da
-#EXT-X-DRM-ID: 636
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=636
-https://servertvhub.site/jiotv+/mpd.php?id=636
+http://fastshare1.com:80/live/25711345/late8airline/5911.ts
 
 #EXTINF:-1 tvg-id="671" tvg-name="Sathiyam TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sathiyam.png" group-title="Tamil",Sathiyam TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ef1b4852e5fd55d08570ab7beff3d5b4:1ed05f086bf361e5e252b9e7b4167dc5
-#EXT-X-DRM-ID: 671
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=671
-https://servertvhub.site/jiotv+/mpd.php?id=671
+http://fastshare1.com:80/live/25711345/late8airline/256457.ts
 
 #EXTINF:-1 tvg-id="673" tvg-name="News7 Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News7_Tamil.png" group-title="Tamil",News7 Tamil
 http://fastshare1.com:80/live/25711345/late8airline/5907.ts
