@@ -1,0 +1,8 @@
+#EXTM3U
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f415c124a07c595b97c43cc9a96ded30:59e6c93d4fe43353b34a71eb87185aaa
+#EXTINF:-1 tvg-id="1" tvg-name="Sun TV HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png" group-title="Tamil",Sun TV HD
+https://jiotvmblive.cdn.jio.com/bpk-tv/Sun_TV_HD_MOB/WDVLive/index.mpd|Cookie=__hdnea__=st=1783735269~exp=1783756869~acl=/*~hmac=71e892f383848fb0874bf6c8d1c146f94803eb6c44445b4b24222eb66ffe301c&Origin=https://jiotv.com/&Referer=https://jiotv.com/&User-Agent=plaYtv/7.1.3
