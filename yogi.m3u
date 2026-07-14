@@ -17,7 +17,7 @@ http://line.your-tvsub.com:80/live/4c5d1ce3b7cf/6c95ca6b319a/155874.m3u8
 
 
 #EXTINF:-1 tvg-id="429" tvg-name="Colors Tamil HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsTamilHD.png" group-title="Tamil",Colors Tamil HD
-http://103.155.18.186:8000/play/a06o/index.m3u8
+http://xcv70.fyi:8080/live/Ahsan1578/Sannata123/388808.ts
 
 #EXTINF:-1 tvg-id="709" tvg-name="Adithya TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Adithya_TV.png" group-title="Tamil",Adithya TV
 http://line.your-tvsub.com:80/live/4c5d1ce3b7cf/6c95ca6b319a/155892.m3u8
