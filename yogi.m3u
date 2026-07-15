@@ -99,12 +99,7 @@ http://line.your-tvsub.com:80/live/4c5d1ce3b7cf/6c95ca6b319a/155891.ts
 http://line.your-tvsub.com:80/live/4c5d1ce3b7cf/6c95ca6b319a/155900.m3u8
 
 #EXTINF:-1 tvg-id="290" tvg-name="sonic Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Tamil.png" group-title="Tamil",sonic Tamil
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a62d4ca4ef095564bede0fe525956634:5e34a5126bfe29c18947046513f18cce
-#EXT-X-DRM-ID: 290
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=290
-https://servertvhub.site/jiotv+/mpd.php?id=290
+http://superjal.xyz:80/MAG4QRT29H/MAGERXKBX3/694109
 
 #EXTINF:-1 tvg-id="542" tvg-name="Pogo Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Tamil.png" group-title="Tamil",Pogo Tamil
 http://line.your-tvsub.com:80/live/4c5d1ce3b7cf/6c95ca6b319a/1526439.m3u8
@@ -114,15 +109,10 @@ http://line.your-tvsub.com:80/live/4c5d1ce3b7cf/6c95ca6b319a/1540022.ts
 
 #EXTM3U x-tvg-url="" logo="https://ik.imagekit.io/yjtx9nh9y/IMG_20250207_083415_447.jpg"
 #EXTINF:-1 tvg-id="290" tvg-name="sonic Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Tamil.png" group-title="Tamil",sonic Tamil
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a62d4ca4ef095564bede0fe525956634:5e34a5126bfe29c18947046513f18cce
-#EXT-X-DRM-ID: 290
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=290
-https://servertvhub.site/jiotv+/mpd.php?id=290
+http://superjal.xyz:80/MAG4QRT29H/MAGERXKBX3/694109
 
 #EXTINF:-1 tvg-id="550" tvg-name="Discovery Kids Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DiscoveryKidsTam.png" group-title="Tamil",Discovery Kids Tamil
-http://fastshare1.com:80/live/25711345/late8airline/66164.ts
+http://superjal.xyz:80/MAG4QRT29H/MAGERXKBX3/510452
 
 #EXTINF:-1 tvg-id="1373" tvg-name="Disney Channel" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Channel.png" group-title="Tamil",Disney Channel
 http://line.your-tvsub.com:80/live/4c5d1ce3b7cf/6c95ca6b319a/1526427.m3u8
@@ -182,18 +172,13 @@ https://servertvhub.site/jiotv+/mpd.php?id=677
 http://fastshare1.com:80/live/25711345/late8airline/1616.ts
 
 #EXTINF:-1 tvg-id="705" tvg-name="Polimer TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_TV.png" group-title="Tamil",Polimer TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=null:null
-#EXT-X-DRM-ID: 705
-#EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=705
-https://servertvhub.site/jiotv+/mpd.php?id=705
+http://superjal.xyz:80/MAG4QRT29H/MAGERXKBX3/510440
 
 #EXTINF:-1 tvg-id="707" tvg-name="Raj TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_TV.png" group-title="Tamil",Raj TV
 http://fastshare1.com:80/live/25711345/late8airline/1619.ts
 
 #EXTINF:-1 tvg-id="708" tvg-name="Makkal TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Makkal_TV.png" group-title="Tamil",Makkal TV
-http://fastshare1.com:80/live/25711345/late8airline/5903.ts
+http://superjal.xyz:80/MAG4QRT29H/MAGERXKBX3/510449
 
 
 
@@ -201,11 +186,11 @@ http://fastshare1.com:80/live/25711345/late8airline/5903.ts
 http://fastshare1.com:80/live/25711345/late8airline/5887.ts
 
 #EXTINF:-1 tvg-id="727" tvg-name="Vasanth TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vasanth_TV.png" group-title="Tamil",Vasanth TV
-http://fastshare1.com:80/live/25711345/late8airline/9020.ts
+http://superjal.xyz:80/MAG4QRT29H/MAGERXKBX3/72127
 
 
 #EXTINF:-1 tvg-id="767" tvg-name="Raj News 24x7" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_24x7.png" group-title="Tamil",Raj News 24x7
-http://fastshare1.com:80/live/25711345/late8airline/380978.ts
+http://superjal.xyz:80/MAG4QRT29H/MAGERXKBX3/510447
 
 #EXTINF:-1 tvg-id="796" tvg-name="Peppers TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Peppers_TV.png" group-title="Tamil",Peppers TV
 http://fastshare1.com:80/live/25711345/late8airline/5909.ts
