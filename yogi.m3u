@@ -119,7 +119,7 @@ https://servertvhub.site/jiotv+/mpd.php?id=417
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=419
 https://servertvhub.site/jiotv+/mpd.php?id=419
 
-#EXTINF:-1 tvg-id="895" tvg-name="Sun Music HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Music_HD.png" group-title="Tamil",Sun Music HD
+#EXTINF:-1 tvg-id="895" tvg-name="Sun Music HD ( aud error )" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Music_HD.png" group-title="Tamil",Sun Music HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa0c0f2dd6ce50208b77e16976e38d90:7f83a8e5178b6562d81968886fc3fe8a
@@ -127,7 +127,8 @@ https://servertvhub.site/jiotv+/mpd.php?id=419
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=895
 https://servertvhub.site/jiotv+/mpd.php?id=895
 
-
+#EXTINF:-1 tvg-id="895" tvg-name="Sun Music HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Music_HD.png" group-title="Tamil",Sun Music HD
+http://line.your-tvsub.com:80/live/4c5d1ce3b7cf/6c95ca6b319a/155881.m3u8
 
 
 #EXTINF:-1 tvg-id="ts647" tvg-name="Isaiaruvi" tvg-logo="https://tatalogo.pages.dev/647.png" group-title="Tamil", Isaiaruvi
