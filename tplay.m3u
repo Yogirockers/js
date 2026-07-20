@@ -1,115 +1,88 @@
 #EXTM3U
-#EXTINF: -1 tvg-id="sun195491" tvg-name="Sun TV HD" tvg-logo="https://i.ibb.co/TM9PxFSg/Picsart-25-12-02-14-25-08-721.png" group-title="Entertainment", Sun TV HDR (sunnxt)
-https://m3u.8088y.fun/live/suntvd.m3u8?tk=testing
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+
+
+#EXTM3U x-tvg-url="https://whythishome.github.io/epg/guides/watch.tataplay.com.xml.gz"
+#EXTM3U x-tvg-url="https://tsepg.cf/epg.xml.gz"
+#EXTM3U x-tvg-url="https://tsepg.cf/jio.xml.gz"
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz"
+#EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-ediaokgxtk.xml.gz"
+#EXTM3U x-tvg-url="https://rb.gy/hspor2"
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3891557f1cb14dedb7545bf52499d748:fb662f742e5f5e0c61a7c1c66d2b019a
-#EXTINF:-1 tvg-id="sun194403" tvg-name="Sun TV HD" tvg-logo="https://tatalogo.pages.dev/521.png" group-title="Entertainment",Sun TV HD (sunnxt)
-https://m3u.8088y.fun/sxt/Sun_TV_HD.mpd?tk=testing
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF: -1 tvg-id="521" group-title="Entertainment" tvg-logo="https://i.ibb.co/V0v2rYGV/sun.png", Sun TV HD
+https://livestream2.sunnxt.com/19ee29194c4d4fc286c3e697362e60cd/SunTVHDB_IN_index.mpd
+
+#EXTINF:-1 tvg-id="496" tvg-name="Star Vijay HD" tvg-logo="https://tatalogo.pages.dev/496.png" group-title="Entertainment", Star Vijay HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=25dd000e5523540cbd82ae7957fef7d7:f1d145d84b648242ef0b3ad2cac7eeb8
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
+https://m3u.8088y.fun/jtv/Star_Vijay_HD.mpd?tk=testing
+
+#EXTINF:-1 tvg-id="608" tvg-name="Zee Tamil HD" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ZeeTamilHD_Thumbnail_7022fe5b-89a2-4cca-a9d0-58e46baa6d5c.png" group-title="Entertainment", Zee Tamil HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://servertvhub.site/zee5(new)/playlist.php?id=0-9-zeetamil
+
+#EXTINF:-1 tvg-id="674" tvg-logo="https://tatalogo.pages.dev/674.png" group-title="Entertainment",Colors Tamil HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=baef1ec2689b57478d44a4138c0deeb7:e264b8d2dd6661ca6ca8540bffc44638
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
+https://m3u.8088y.fun/jtv/Colors_Tamil_HD.mpd?tk=testing
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=b5a2c6d13b9748de9ceebc0a8adc8af3:e806fec1bf1c8a844216118c94bad020
+#EXTINF:-1 tvg-id="520" tvg-logo="https://i.ibb.co/gFThdRx0/music.png" group-title="Music",Sun Music HD
+https://livestream.sunnxt.com/f6f92acd2b4f4870aabf04b274c69376/SunMusicHD_P_IN_index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=351e547391bb45cbac66d2cb9ec0c294:3bd646753f4903eee3b404646c7819d3
+#EXTINF:-1 tvg-id="380" tvg-logo="https://i.ibb.co/27bxZ2Zs/ktv.png" group-title="Movies", KTV HD
+https://livestream.sunnxt.com/61477b4c8d8d45d5a49e044cc1dffc60/KTVHDB_IN_index.mpd
+
+#EXTINF:-1 tvg-id="0-9-360" group-title="Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-360/channel_list/360x2031c866f9b15d44e38b077973e3ab37e89",Zee Tamil HD APAC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://servertvhub.site/zee5(new)/playlist.php?id=0-9-360
+
+
+============================== JIOTV ============================================
+
+# >>> JIO_AUTO_START
+#EXTINF:-1 tvg-id="521" group-title="Tamil" tvg-logo="https://i.ibb.co/V0v2rYGV/sun.png",Sun TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f415c124a07c595b97c43cc9a96ded30:59e6c93d4fe43353b34a71eb87185aaa
-#EXTINF:-1 tvg-id="sun194403" tvg-name="Sun TV HD" tvg-logo="https://tatalogo.pages.dev/521.png" group-title="Entertainment",Sun TV HD
-https://m3u.8088y.fun/jtv/Sun_TV_HD.mpd?tk=testing
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
+https://jiotvmblive.cdn.jio.com/bpk-tv/Sun_TV_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1784556048~exp=1784577648~acl=/*~hmac=d6473e42c0eecefa41da335fb45869e914a0f34a750517896510144757ca2e49
+
+#EXTINF:-1 tvg-id="496" group-title="Tamil" tvg-logo="https://tatalogo.pages.dev/496.png",Star Vijay HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=83076ff2f68d1764b559c432ab49ca10:ebdf56ba4a3562cc82053a2952975432
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; TMRV075G Build/UKQ1.230924.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/132.0.6834.163 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="sun194403" tvg-name="Sun TV HD" tvg-logo="https://tatalogo.pages.dev/521.png" group-title="Entertainment",Sun TV HD (astro)
-https://m3u.8088y.fun/ast/SunTV.mpd?tk=testing
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
-#EXTINF:-1 tvg-id="sun194403" tvg-name="Sun TV HD" tvg-logo="https://tatalogo.pages.dev/521.png" group-title="Entertainment",Sun TV (sunnxt)
-https://m3u.8088y.fun/sxt/Sun_TV.mpd?tk=testing
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=849d6b062b645abea937ec7f2b6b1686:1f65503420b88d11a16d4a4eacd95f0f
-#EXTINF: -1 tvg-id="ts496" tvg-name="Star Vijay HD" tvg-logo="https://tatalogo.pages.dev/496.png" group-title="Entertainment", Star Vijay HD
-https://m3u.8088y.fun/jtv/Star_Vijay_HD.mpd?tk=testing
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=af35608a7d4b13d1158c2ef6d6c1a010:d01c81050dfab309c6be7e60d03c2d82
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; TMRV075G Build/UKQ1.230924.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/132.0.6834.163 Mobile Safari/537.36
-#EXTINF: -1 tvg-id="ts496" tvg-name="Star Vijay HD" tvg-logo="https://tatalogo.pages.dev/496.png" group-title="Entertainment", Star Vijay HD (astro)
-https://m3u.8088y.fun/ast/StarVijay.mpd?tk=testing
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c5f2861efbc7552ba802dcae4e160359:4ea32867828280a4d6f36ea8fbbe38eb
-#EXTINF: -1 tvg-id="ts496" tvg-name="Star Vijay HD" tvg-logo="https://tatalogo.pages.dev/496.png" group-title="Entertainment", Star Vijay
-https://m3u.8088y.fun/jtv/Star_Vijay.mpd?tk=testing
-#EXTINF:-1 tvg-id="0-9-zeetamil" tvg-name="Zee Tamil HD" tvg-logo="https://tatalogo.pages.dev/608.png" group-title="Entertainment", Zee Tamil HD (zee5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-#EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
-https://m3u.8088y.fun/z5/Zee_Tamil_HD.m3u8?tk=testing
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=25dd000e5523540cbd82ae7957fef7d7:f1d145d84b648242ef0b3ad2cac7eeb8
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
+https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Vijay_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1784556048~exp=1784577648~acl=/*~hmac=d6473e42c0eecefa41da335fb45869e914a0f34a750517896510144757ca2e49
+
+#EXTINF:-1 tvg-id="608" group-title="Tamil" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ZeeTamilHD_Thumbnail_7022fe5b-89a2-4cca-a9d0-58e46baa6d5c.png",Zee Tamil HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e9dd4aa4accd53188659c4a7b45bd8c4:920ff1a99835cfeb26d4c0db04ee58bd
-#EXTVLCOPT:http-user-agent=JioTV.Plus/2.1.0_3012 (Linux;Android 9) ExoPlayerLib/2.18.1
-#EXTINF:-1 tvg-id="0-9-zeetamil" tvg-name="Zee Tamil HD" tvg-logo="https://tatalogo.pages.dev/608.png" group-title="Entertainment", Zee Tamil HD
-https://m3u.8088y.fun/jtv/zee_tamil_HD.mpd?tk=testing
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0d4e3e7dac2d58b93bf819a72fe8d510:667a33f4d5bb3587f2d5209886839eac
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; TMRV075G Build/UKQ1.230924.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/132.0.6834.163 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="0-9-zeetamil" tvg-name="Zee Tamil HD" tvg-logo="https://tatalogo.pages.dev/608.png" group-title="Entertainment", Zee Tamil HD (astro)
-https://m3u.8088y.fun/ast/ZeeTamil.mpd?tk=testing
-#EXTINF:-1 tvg-id="0-9-9z5383487" tvg-name="Zee Tamil" tvg-logo="https://tatalogo.pages.dev/608.png" group-title="Entertainment", Zee Tamil (zee5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-#EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
-#https://m3u.8088y.fun/z5/Zee_Tamil.m3u8
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5036572721315d12aaf769bb142f43fe:86fefa8b4f86639d644f03f7bccdc882
-#EXTVLCOPT:http-user-agent=JioTV.Plus/2.1.0_3012 (Linux;Android 9) ExoPlayerLib/2.18.1
-#EXTINF:-1 tvg-id="0-9-9z5383487" tvg-name="Zee Tamil" tvg-logo="https://tatalogo.pages.dev/608.png" group-title="Entertainment", Zee Tamil
-https://m3u.8088y.fun/jtv/zee_tamil.mpd?tk=testing
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=94d31d976768554b892f7037db09e0c9:08c5154b6cdcb6e0fc99d9d4e6298cb3
-#EXTINF:-1 tvg-id="429" tvg-name="Colors Tamil HD" tvg-logo="https://tatalogo.pages.dev/674.png" group-title="Entertainment", Colors Tamil HD
-https://m3u.8088y.fun/jtv/Colors_Tamil_HD.mpd?tk=testing
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e46354fb39c28e5956bc946ac2a05010:511905bf191474b412b4ec117515a79c
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; TMRV075G Build/UKQ1.230924.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/132.0.6834.163 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="429" tvg-name="Colors Tamil HD" tvg-logo="https://tatalogo.pages.dev/674.png" group-title="Entertainment", Colors Tamil HD (astro)
-https://m3u.8088y.fun/ast/ColorsTamilHD.mpd?tk=testing
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0729280e18465f30a437fae60b0de8c7:f5db301fe989d18fc10d29c836a3a2c7
-#EXTINF:-1 tvg-id="429" tvg-name="Colors Tamil HD" tvg-logo="https://tatalogo.pages.dev/674.png" group-title="Entertainment", Colors Tamil
-https://m3u.8088y.fun/jtv/Colors_Tamil.mpd?tk=testing
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b53a72551ecd5f5a93785ab2eea2c04a:91c08ce0ece5d6c8c167b104a7c9ab00
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-#EXTINF:-1 tvg-id="ts708" tvg-name="Jaya TV HD" tvg-logo="https://tatalogo.pages.dev/708.png" group-title="Entertainment", Jaya TV HD
-https://m3u.8088y.fun/jtv/Jaya_TV_HD.mpd?tk=testing
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeTamilHD_MOB/WDVLive/index.mpd?__hdnea__=st=1784556048~exp=1784577648~acl=/*~hmac=d6473e42c0eecefa41da335fb45869e914a0f34a750517896510144757ca2e49
+
+#EXTINF:-1 tvg-id="674" group-title="Tamil" tvg-logo="https://tatalogo.pages.dev/674.png",Colors Tamil HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3b214e599f3f5fb3abd92164fa152caf:ec6050021a558cd31511717e1c0912e6
-#EXTINF:-1 tvg-id="ts439" tvg-name="Raj TV" tvg-logo="https://tatalogo.pages.dev/439.png" group-title="Entertainment", Raj TV
-https://m3u.8088y.fun/jtv/Raj_TV.mpd?tk=testing
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=baef1ec2689b57478d44a4138c0deeb7:e264b8d2dd6661ca6ca8540bffc44638
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
+https://jiotvmblive.cdn.jio.com/bpk-tv/ColorsTamilHD_MOB/WDVLive/index.mpd?__hdnea__=st=1784556048~exp=1784577648~acl=/*~hmac=d6473e42c0eecefa41da335fb45869e914a0f34a750517896510144757ca2e49
+
+#EXTINF:-1 tvg-id="380" group-title="Tamil" tvg-logo="https://i.ibb.co/27bxZ2Zs/ktv.png",KTV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d674a1a7f43641a29bd8867d87c7259a:812f55dcde68619fc6ad95951b241d2c
-#EXTINF:-1 tvg-id="sun194407" tvg-name="Adithya TV" tvg-logo="https://i.ibb.co/DDCQRL2/Adithya.png" group-title="Entertainment", Adithya TV (sunnxt)
-https://m3u.8088y.fun/sxt/Adithya_TV.mpd?tk=testing
+#KODIPROP:inputstream.adaptive.license_key=ba9bfe750a56514e9c63c456fad1e428:e0ca0ee9dbaac2942753d928b92824c5
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
+https://jiotvmblive.cdn.jio.com/bpk-tv/KTV_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1784556048~exp=1784577648~acl=/*~hmac=d6473e42c0eecefa41da335fb45869e914a0f34a750517896510144757ca2e49
+
+#EXTINF:-1 tvg-id="520" group-title="Tamil" tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Sun_Music_HD.png",Sun Music HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa0c0f2dd6ce50208b77e16976e38d90:7f83a8e5178b6562d81968886fc3fe8a
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
+https://jiotvmblive.cdn.jio.com/bpk-tv/Sun_Music_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1784556048~exp=1784577648~acl=/*~hmac=d6473e42c0eecefa41da335fb45869e914a0f34a750517896510144757ca2e49https://m3u.8088y.fun/sxt/Adithya_TV.mpd?tk=testing
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
