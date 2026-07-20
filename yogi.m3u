@@ -1,7 +1,7 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-id="1" tvg-name="Intro" tvg-logo="https://raw.github.com/Yogirockers/js/main/dolby.png" group-title="Tamil",Intro
+#EXTINF:-1 tvg-id="1" tvg-name="Intro" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSglBhjPuNNiDPNEGj0s-IXxUAlB8awXhjd_lDIeIgatA&s=10" group-title="Tamil",Intro
 
 https://raw.githubusercontent.com/Yogirockers/js/refs/heads/main/intro.mp4
 
