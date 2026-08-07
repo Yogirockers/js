@@ -14,8 +14,12 @@ https://raw.githubusercontent.com/Yogirockers/js/refs/heads/main/intro.mp4
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=896
 https://servertvhub.site/jiotv+/mpd.php?id=896
 
-#EXTINF: -1 tvg-id="sun195491" tvg-name="Sun TV HDR 10+" tvg-logo="https://i.ibb.co/TM9PxFSg/Picsart-25-12-02-14-25-08-721.png" group-title="Tamil", HDR (sunnxt)
+#EXTINF: -1 tvg-id="sun195491" tvg-name="Sun TV HDR 10+" tvg-logo="https://i.ibb.co/TM9PxFSg/Picsart-25-12-02-14-25-08-721.png" group-title="Tamil", Sun HDR 10+ (sunnxt)
 https://d2px1d6ssc60fw.cloudfront.net/SunTV/SunTV-HDR10-IN-index.m3u8
+
+
+#EXTINF: -1 tvg-id="sun195491" tvg-name="Sun TV HDR 10+" tvg-logo="https://i.ibb.co/TM9PxFSg/Picsart-25-12-02-14-25-08-721.png" group-title="Tamil", Sun TV (sunnxt)
+http://1680582.01733.aquafina.live/live/9944/4499/5921.ts?token=ShJcU0BbQQNHClJcB1UHAQ0BVgYEVgFYVABaUgECV1YAVlEGUVVUW1YbGBpEF0dcWF1vWQIXXlQIUFMbRxFAV0NvXVYRCUEIUwEEDQ9RFxUbRFldAxdeUAZaVAZUVwMBARwWQlpXQQNHCwIOBlcHCRscElUeQQETXwMOaAEBRVtSVRYIXUYPVUkbW1ZoB1BUWF5UElwXVEMdQAtEFUYJEHtZWxAfEQFQEUtVTFJBDxsNAQkCRBlGAl4XDEMXHREIE3l6EB8RBkERXFpLXgxbGwMSRENEGUYIQj0QUhYQQVdQXVFAEQlBCUcVFlVWG2paVl5eVQVBDQ5fEUANR1URHhNdW1xaRwxLOkldXBVZFwgNAwgIXwFGHA==
 
 #EXTINF:-1 tvg-id="0-9-zeetamil" group-title="Tamil" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeetamil/list/1920x1080listef67d9a80c9345bdb8254aa042944e0b.jpg",Zee Tamil HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
