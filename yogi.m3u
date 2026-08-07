@@ -108,6 +108,48 @@ http://line.your-tvsub.com:80/live/4c5d1ce3b7cf/6c95ca6b319a/636361.ts
 #EXTINF:-1 tvg-id="999" tvg-name="Tamil cinema 3" tvg-logo="" group-title="Tamil",Tamil Cinema 1
 http://line.your-tvsub.com:80/live/4c5d1ce3b7cf/6c95ca6b319a/636355.ts
 
+#EXTINF:-1 tvg-id="Tamil Latest Songs (4K)" group-title="Tamil",Tamil Latest Songs (4K)
+https://neiwfusiion-rkdyiptv.pages.dev/api/rkdyiptv/playlist?action=stream&amp;d=eyJpIjoiNDgxMjAwIiwiZSI6MTc4NjE5NTMwNzQ0NywicyI6MjA2NzIsImgiOiI1Y2NlZGQ5MmNmNzdjNGJkMmQ5MSJ9
+#EXTINF:-1 tvg-id="Tamil Trending song (4K)" group-title="Tamil",Tamil Trending song (4K)
+https://neiwfusiion-rkdyiptv.pages.dev/api/rkdyiptv/playlist?action=stream&amp;d=eyJpIjoiNDgxMTk5IiwiZSI6MTc4NjE5NTMwNzQ0NywicyI6MjA2NzIsImgiOiJkMDNiY2ZkZjNmYzdlMjMyNWRlYyJ9
+#EXTINF:-1 tvg-id="Tamil Hit Songs (4K)" group-title="Tamil",Tamil Hit Songs (4K)
+https://neiwfusiion-rkdyiptv.pages.dev/api/rkdyiptv/playlist?action=stream&amp;d=eyJpIjoiNDgxMzE0IiwiZSI6MTc4NjE5NTMwNzQ0NywicyI6MjA2NzIsImgiOiI5MjAxNjlmMTFiNGNhOGU2ZjBmNCJ9
+#EXTINF:-1 tvg-id="Tamil 2026 Movies" group-title="Tamil",Tamil 2026 Movies
+https://neiwfusiion-rkdyiptv.pages.dev/api/rkdyiptv/playlist?action=stream&amp;d=eyJpIjoiNDgxOTI1IiwiZSI6MTc4NjE5NTMwNzQ0NywicyI6MjA2NzIsImgiOiI0NDM3ZWE4ZmUzNjQ4ZDFjM2JlOSJ9
+#EXTINF:-1 tvg-id="Tamil Comedy Movies" group-title="Tamil",Tamil Comedy Movies
+https://neiwfusiion-rkdyiptv.pages.dev/api/rkdyiptv/playlist?action=stream&amp;d=eyJpIjoiMzYxMCIsImUiOjE3ODYxOTUzMDc0NDcsInMiOjIwNjcyLCJoIjoiZjJmZTA0NzcwMzM2NTljNGI3ZDAifQ
+#EXTINF:-1 tvg-id="Tamil Old Collections" group-title="Tamil",Tamil Old Collections
+https://neiwfusiion-rkdyiptv.pages.dev/api/rkdyiptv/playlist?action=stream&amp;d=eyJpIjoiNDc1NDc4IiwiZSI6MTc4NjE5NTMwNzQ0NywicyI6MjA2NzIsImgiOiI4NGVkZjMyMjMzMzU4ZmM1YWEzMSJ9
+#EXTINF:-1 tvg-id="Tamil Hollywood Movies" group-title="Tamil",Tamil Hollywood Movies
+https://neiwfusiion-rkdyiptv.pages.dev/api/rkdyiptv/playlist?action=stream&amp;d=eyJpIjoiMzYwOCIsImUiOjE3ODYxOTUzMDc0NDcsInMiOjIwNjcyLCJoIjoiMGJmNmI5ZWMxNGFiN2E0MTQwY2UifQ
+#EXTINF:-1 tvg-id="Amazon WebSeries" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Prime_Video_logo_%282024%29.svg/500px-Prime_Video_logo_%282024%29.svg.png?utm_source=en.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" group-title="Tamil",Amazon WebSeries
+https://neiwfusiion-rkdyiptv.pages.dev/api/rkdyiptv/playlist?action=stream&amp;d=eyJpIjoiNDgxMDA1IiwiZSI6MTc4NjE5NTMwNzQ0NywicyI6MjA2NzIsImgiOiI4ZmU1MzBjOTA1OGYwYWY4Njc2MSJ9
+#EXTINF:-1 tvg-id="Zee 5 Webseries" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/ZEE5_2025.svg/330px-ZEE5_2025.svg.png?utm_source=en.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" group-title="Tamil",Zee 5 Webseries
+https://neiwfusiion-rkdyiptv.pages.dev/api/rkdyiptv/playlist?action=stream&amp;d=eyJpIjoiNDgxMDA2IiwiZSI6MTc4NjE5NTMwNzQ0NywicyI6MjA2NzIsImgiOiI2NjZlMmFhZmUyMDQ5NTk3M2NlYSJ9
+#EXTINF:-1 tvg-id="Zee 5 Webseries 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/ZEE5_2025.svg/330px-ZEE5_2025.svg.png?utm_source=en.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" group-title="Tamil",Zee 5 Webseries 1
+https://neiwfusiion-rkdyiptv.pages.dev/api/rkdyiptv/playlist?action=stream&amp;d=eyJpIjoiNDgxMDAzIiwiZSI6MTc4NjE5NTMwNzQ0NywicyI6MjA2NzIsImgiOiIzNTJkMTlkNzFhN2NjNWVjYzc1OSJ9
+#EXTINF:-1 tvg-id="Sliv Webseries" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/SonyLIV_2020.png/250px-SonyLIV_2020.png?utm_source=en.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" group-title="Tamil",Sliv Webseries
+https://neiwfusiion-rkdyiptv.pages.dev/api/rkdyiptv/playlist?action=stream&amp;d=eyJpIjoiNDgxMDA3IiwiZSI6MTc4NjE5NTMwNzQ0NywicyI6MjA2NzIsImgiOiIyYjc4NWZjMjNlN2Q0MjAwOGE0ZCJ9
+#EXTINF:-1 tvg-id="JIO Hotstar Webseries" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/JioHotstar_2025.png/500px-JioHotstar_2025.png?utm_source=en.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" group-title="Tamil",JIO Hotstar Webseries
+https://neiwfusiion-rkdyiptv.pages.dev/api/rkdyiptv/playlist?action=stream&amp;d=eyJpIjoiNDgxMDA4IiwiZSI6MTc4NjE5NTMwNzQ0NywicyI6MjA2NzIsImgiOiIxZjM3YWQ3YzE0ZGJjOGNhNjI0YyJ9
+#EXTINF:-1 tvg-id="Netflix Webseries" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/960px-Netflix_2015_logo.svg.png?utm_source=en.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" group-title="Tamil",Netflix Webseries
+https://neiwfusiion-rkdyiptv.pages.dev/api/rkdyiptv/playlist?action=stream&amp;d=eyJpIjoiNDgxMDEzIiwiZSI6MTc4NjE5NTMwNzQ0NywicyI6MjA2NzIsImgiOiI2N2QxY2ZkMzRlNjg0ZGE1Mzc0NSJ9
+#EXTINF:-1 tvg-id="Amazon WebSeries 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Prime_Video_logo_%282024%29.svg/500px-Prime_Video_logo_%282024%29.svg.png?utm_source=en.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" group-title="Tamil",Amazon WebSeries 1
+https://neiwfusiion-rkdyiptv.pages.dev/api/rkdyiptv/playlist?action=stream&amp;d=eyJpIjoiNDgxMDEyIiwiZSI6MTc4NjE5Njg1NjE1NiwicyI6MjA2NzIsImgiOiI4OThiMjViOTZlMDY3NDQ2OWYyZCJ9
+#EXTINF:-1 tvg-id="Vijay Antony (4K)" group-title="Tamil",Vijay Antony (4K)
+https://neiwfusiion-rkdyiptv.pages.dev/api/rkdyiptv/playlist?action=stream&amp;d=eyJpIjoiNDgxMTQyIiwiZSI6MTc4NjE5Njg1NjE1NiwicyI6MjA2NzIsImgiOiI4MDU2NDkyNmQzMGY0YTVmNDI4ZiJ9
+#EXTINF:-1 tvg-id="CM Vijay (4K)" group-title="Tamil",CM Vijay (4K)
+https://neiwfusiion-rkdyiptv.pages.dev/api/rkdyiptv/playlist?action=stream&amp;d=eyJpIjoiNDgxMTQxIiwiZSI6MTc4NjE5Njg1NjE1NiwicyI6MjA2NzIsImgiOiJiM2VjZGFkYjM0MTdkN2E4MjZiNyJ9
+#EXTINF:-1 tvg-id="Ajith (4K)" group-title="Tamil",Ajith (4K)
+https://neiwfusiion-rkdyiptv.pages.dev/api/rkdyiptv/playlist?action=stream&amp;d=eyJpIjoiNDgxMTQ5IiwiZSI6MTc4NjE5Njg1NjE1NiwicyI6MjA2NzIsImgiOiJkYWMyODBiNmIzNDNkYjAyODRiMyJ9
+#EXTINF:-1 tvg-id="Vadivelu (4K)" group-title="Tamil",Vadivelu (4K)
+https://neiwfusiion-rkdyiptv.pages.dev/api/rkdyiptv/playlist?action=stream&amp;d=eyJpIjoiNDgxMjMxIiwiZSI6MTc4NjE5Njg1NjE1NiwicyI6MjA2NzIsImgiOiI4OTUzYWQ3M2U2YzMxOTY5ZTVjZSJ9
+#EXTINF:-1 tvg-id="Soori (4K)" group-title="Tamil",Soori (4K)
+https://neiwfusiion-rkdyiptv.pages.dev/api/rkdyiptv/playlist?action=stream&amp;d=eyJpIjoiNDgxMjIyIiwiZSI6MTc4NjE5Njg1NjE1NiwicyI6MjA2NzIsImgiOiJkYTNhNjJhZWNjZjU4YmE3ZTNiMSJ9
+#EXTINF:-1 tvg-id="Yogi Babu (4K)" group-title="Tamil",Yogi Babu (4K)
+https://neiwfusiion-rkdyiptv.pages.dev/api/rkdyiptv/playlist?action=stream&amp;d=eyJpIjoiNDgxMjMzIiwiZSI6MTc4NjE5Njg1NjE1NiwicyI6MjA2NzIsImgiOiJjZDllOTc4OGZlOTE0M2FkZjA0YiJ9
+
+
 
 
 #EXTINF:-1 tvg-id="417" tvg-name="J Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/J_Movies.png" group-title="Tamil",J Movies
@@ -126,8 +168,8 @@ https://servertvhub.site/jiotv+/mpd.php?id=417
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=419
 https://servertvhub.site/jiotv+/mpd.php?id=419
 
-#EXTINF:-1 tvg-id="7StarTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1754648001_7STV%20Still%202%20(1).png" tvg-region="Salem" group-title="Tamil",7Star TV
-https://app.ashokadigital.net/app/ed8bd4a7/index.m3u8
+#EXTINF:-1 tvg-id="7s Music" tvg-logo="https://www.7smusic.in/images/music.png" group-title="Tamil",7s Music
+https://neiwfusiion-rkdyiptv.pages.dev/api/rkdyiptv/playlist?action=stream&amp;d=eyJpIjoiMzQyMyIsImUiOjE3ODYxOTQ5Nzk2NDAsInMiOjIwNjcyLCJoIjoiMjM2ODFkNzQ1NTc4NzE0MWZlMTcifQ
 #EXTINF:-1 tvg-id="7StarMusic" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1764994908_7SM%20Still%202.png" tvg-region="Salem" group-title="Tamil",7Star Music
 http://premium.7starcloud.com:1935/live/7starmusic/playlist.m3u8
 
