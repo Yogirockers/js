@@ -1,19 +1,7 @@
-
 #EXTM3U
 
-#EXTINF:-1 tvg-id="542" group-title="Unknown" group-logo="https://i.ibb.co/8DP24sFn/9b61d4688233.png" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Tamil.png",Pogo Tamil
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ace8ad8aaff258edb8743bea9825d2d2:89bbc643fba2d72470ee30668ec749c9
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
-#EXTHTTP:{"cookie":"__hdnea__=st=1785469763~exp=1785491363~acl=/*~hmac=750309f5cc36786d2c110922c6cb6c61ed55b053f0f4c985125c1f0318cca37a","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Pogo_Tam_MOB/WDVLive/index.mpd?__hdnea__=st=1785469763~exp=1785491363~acl=/*~hmac=750309f5cc36786d2c110922c6cb6c61ed55b053f0f4c985125c1f0318cca37a
-
-
-
-
-#EXTINF:-1 tvg-id="1081" group-title="JIO ⭕|Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Tamil.png",CN HD+ Tamil
+#EXTINF:-1 tvg-id="894" group-title="JIO ⭕|Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/KTV_HD.png",KTV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/1081
+#KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/894
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1785458349~exp=1785479949~acl=/*~hmac=256230a3e6d14571860956ee1f4ee8dcb5bd853b66be2fcf80505887d4726a65","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://onekey.virey40690.workers.dev/mpd/1081
+https://onekey.virey40690.workers.dev/mpd/894
