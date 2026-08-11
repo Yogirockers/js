@@ -6,6 +6,22 @@
 #EXTHTTP:{"cookie":"__hdnea__=st=1786334436~exp=1786356036~acl=/*~hmac=45c30bfe25fcee55333a099235f98f7b28e084c1fe94ccafa574638e5fabb718","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Nick_Hindi_MOB/WDVLive/index.mpd
 
+
+
+
+
+#EXTINF:-1 tvg-name="Vijay Super Digital By @Premiumplugx" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1929/1782285031929-h" group-title="Entertainment By @Premiumplugx", Vijay Super Digital @Premiumplugx
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=08e4a1c2f55d4ed4878110a640920000:23dc3107bf284a0dbd93b1dc9f142459
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premiumplugx(Android/15)
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-cookie=hdntl=exp=1786433518~acl=%2f*~id=052afb0665acc71eb73f328b93744cba~data=hdntl~hmac=25898c3404a0f484e03996a00eb20bbd8fcfc6bae9f5f9e627e6bab9dbb144ec
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1786433518~acl=%2f*~id=052afb0665acc71eb73f328b93744cba~data=hdntl~hmac=25898c3404a0f484e03996a00eb20bbd8fcfc6bae9f5f9e627e6bab9dbb144ec"}
+https://livetv.hotstar.com/mp1/gec-india-1540068340/fcf299d934c2434b812dbf26d16355e8/index.mpd
+
+
 #EXTINF:-1 tvg-id="895" group-title="JIO ⭕|Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Music_HD.png",Sun Music HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/895
